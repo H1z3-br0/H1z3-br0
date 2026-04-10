@@ -8,9 +8,10 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1500&pause=500&color=FF0040&background=0D111700&center=true&vCenter=true&width=600&lines=cryptography;reverse+engineering;pwn+%7C+web;math+enthusiast;low+level+is+the+way)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1500&pause=500&color=FF0040&background=0D111700&center=true&vCenter=true&width=600&lines=cryptography+;reverse+engineer;userspace+pwner;web+developer+&+appsec;math+enthusiast;low+level+is+the+way)](https://git.io/typing-svg)
 
 </div>
+
 <!--
 **H1z3-br0/H1z3-br0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
