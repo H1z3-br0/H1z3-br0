@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 ![header](https://capsule-render.vercel.app/api?type=venom&color=0%3A450a0a%2C100%3Ab91c1c&height=200§ion=header&text=h1z3&fontSize=46&fontColor=fee2e2&fontAlignY=38&desc=@%204x10m&descSize=16&descColor=f87171&descAlignY=58&animation=fadeIn)
+<center>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1500&pause=500&color=FF0040&background=0D111700&center=true&vCenter=true&width=600&lines=h1z3+%2F%2F+4x10m;crypto+%7C+reverse+%7C+pwn+%7C+web;math+enthusiast;low+level+is+the+way)](https://git.io/typing-svg)
+</center>
 
 <!--
 **H1z3-br0/H1z3-br0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
