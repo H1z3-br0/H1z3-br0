@@ -1,6 +1,10 @@
 ## Hi there 👋
 
+<div align="center">
+
 ![header](https://capsule-render.vercel.app/api?type=venom&color=0%3A450a0a%2C100%3Ab91c1c&height=200&section=header&text=h1z3&fontSize=46&fontColor=fee2e2&fontAlignY=38&desc=@%204x10m&descSize=16&descColor=f87171&descAlignY=58&animation=fadeIn)
+
+</div>
 
 <div align="center">
 
