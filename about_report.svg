@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="3016" viewBox="0 0 700 3016" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, &quot;Liberation Mono&quot;, &quot;Courier New&quot;, monospace">
+<defs><filter id="glow" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="1" /></filter></defs>
+<rect width="700" height="3016" fill="#0d1117" rx="10"/>
+<rect x="0.5" y="0.5" width="699" height="3015" fill="none" stroke="#21262d" stroke-width="1" rx="10"/>
+<text x="32" y="41" xml:space="preserve" font-size="13"><tspan fill="#6e7681">┌────────────────────────────────────────────────────────┐</tspan></text>
+<text x="32" y="61" xml:space="preserve" font-size="13"><tspan fill="#6e7681">│ </tspan><tspan fill="#ff0040" font-weight="700">██  CLASSIFIED — THREAT INTELLIGENCE REPORT  ██</tspan><tspan fill="#6e7681">        │</tspan></text>
+<text x="32" y="81" xml:space="preserve" font-size="13"><tspan fill="#6e7681">│ </tspan><tspan fill="#ffffff" font-weight="700">Report ID: TIR-2024-H1Z3</tspan><tspan fill="#e6edf3">    </tspan><tspan fill="#ffffff" font-weight="700">Classification: TOP SECRET</tspan><tspan fill="#6e7681"> │</tspan></text>
+<text x="32" y="101" xml:space="preserve" font-size="13"><tspan fill="#6e7681">└────────────────────────────────────────────────────────┘</tspan></text>
+<text x="32" y="141" xml:space="preserve" font-size="13"><tspan fill="#ffffff" font-weight="700">§1. EXECUTIVE SUMMARY</tspan></text>
+<text x="32" y="181" xml:space="preserve" font-size="13"><tspan fill="#e6edf3">   </tspan><tspan fill="#6e7681">Designation:    </tspan><tspan fill="#7ee787" font-weight="700">h1z3</tspan></text>
+<text x="32" y="201" xml:space="preserve" font-size="13"><tspan fill="#e6edf3">   </tspan><tspan fill="#6e7681">Affiliation:    </tspan><tspan fill="#7ee787" font-weight="700">4x10m</tspan><tspan fill="#6e7681"> (CTF team, active)</tspan></text>
+<text x="32" y="221" xml:space="preserve" font-size="13"><tspan fill="#e6edf3">   </tspan><tspan fill="#6e7681">Education:      </tspan><tspan fill="#ffffff" font-weight="700">AESC MSU</tspan><tspan fill="#6e7681"> (mathematical training)</tspan></text>
+<text x="32" y="241" xml:space="preserve" font-size="13"><tspan fill="#e6edf3">   </tspan><tspan fill="#6e7681">Threat Level:   </tspan><tspan fill="#ff0040" font-weight="700">██████████</tspan><tspan fill="#ff7b72"> CRITICAL</tspan></text>
+<text x="32" y="261" xml:space="preserve" font-size="13"><tspan fill="#e6edf3">   </tspan><tspan fill="#6e7681">Status:         </tspan><tspan fill="#7ee787">ACTIVE</tspan><tspan fill="#6e7681"> — capturing flags in real time</tspan></text>
+<text x="32" y="281" xml:space="preserve" font-size="13"><tspan fill="#e6edf3">   </tspan><tspan fill="#6e7681">Priority:       </tspan><tspan fill="#ff5c6c" font-weight="700">MAXIMUM</tspan></text>
+<text x="32" y="321" xml:space="preserve" font-size="13"><tspan fill="#ffffff" font-weight="700">§2. INFRASTRUCTURE PROFILE</tspan></text>
+<text x="32" y="361" xml:space="preserve" font-size="13"><tspan fill="#6e7681">   ┌──────────────────────────────────────────────┐</tspan></text>
+<text x="32" y="381" xml:space="preserve" font-size="13"><tspan fill="#6e7681">   │  </tspan><tspan fill="#58a6ff" font-weight="700">Operating System</tspan><tspan fill="#e6edf3">    macOS (primary)         </tspan><tspan fill="#6e7681">│</tspan></text>
+<text x="32" y="401" xml:space="preserve" font-size="13"><tspan fill="#6e7681">   │                      </tspan><tspan fill="#e6edf3">Kali Linux (offensive)  </tspan><tspan fill="#6e7681">│</tspan></text>
+<text x="32" y="421" xml:space="preserve" font-size="13"><tspan fill="#6e7681">   │  </tspan><tspan fill="#58a6ff" font-weight="700">Shell</tspan><tspan fill="#e6edf3">               zsh                     </tspan><tspan fill="#6e7681">│</tspan></text>
+<text x="32" y="441" xml:space="preserve" font-size="13"><tspan fill="#6e7681">   │  </tspan><tspan fill="#58a6ff" font-weight="700">Editor</tspan><tspan fill="#e6edf3">              neovim                  </tspan><tspan fill="#6e7681">│</tspan></text>
+<text x="32" y="461" xml:space="preserve" font-size="13"><tspan fill="#6e7681">   │  </tspan><tspan fill="#58a6ff" font-weight="700">Languages</tspan><tspan fill="#e6edf3">           Rust · Go · C/C++ · Sage </tspan><tspan fill="#6e7681">│</tspan></text>
+<text x="32" y="481" xml:space="preserve" font-size="13"><tspan fill="#6e7681">   └──────────────────────────────────────────────┘</tspan></text>
+<text x="32" y="521" xml:space="preserve" font-size="13"><tspan fill="#ffffff" font-weight="700">§3. CAPABILITY ASSESSMENT</tspan></text>
+<text x="32" y="561" xml:space="preserve" font-size="13"><tspan fill="#e6edf3">   </tspan><tspan fill="#f0883e" font-weight="700">§3.1 — MATHEMATICS &amp; CRYPTOGRAPHY</tspan><tspan fill="#e6edf3">  </tspan><tspan fill="#ff0040" font-weight="700">[CRITICAL]</tspan></text>
+<text x="32" y="601" xml:space="preserve" font-size="13"><tspan fill="#6e7681">        The subject demonstrates elite-level proficiency</tspan></text>
+<text x="32" y="621" xml:space="preserve" font-size="13"><tspan fill="#6e7681">        in pure mathematics applied to cryptography. The</tspan></text>
+<text x="32" y="641" xml:space="preserve" font-size="13"><tspan fill="#6e7681">        </tspan><tspan fill="#e6edf3">AESC MSU</tspan><tspan fill="#6e7681"> background provides a strong theoretical</tspan></text>
+<text x="32" y="661" xml:space="preserve" font-size="13"><tspan fill="#6e7681">        foundation that enables attacks on cryptographic</tspan></text>
+<text x="32" y="681" xml:space="preserve" font-size="13"><tspan fill="#6e7681">        primitives considered secure under conventional</tspan></text>
+<text x="32" y="701" xml:space="preserve" font-size="13"><tspan fill="#6e7681">        assumptions.</tspan></text>
+<text x="32" y="741" xml:space="preserve" font-size="13"><tspan fill="#6e7681">        Specializations:</tspan></text>
+<text x="32" y="761" xml:space="preserve" font-size="13"><tspan fill="#6e7681">         ▸ Number theory (primes, modular arithmetic)</tspan></text>
+<text x="32" y="781" xml:space="preserve" font-size="13"><tspan fill="#6e7681">         ▸ Abstract algebra (groups, rings, fields)</tspan></text>
+<text x="32" y="801" xml:space="preserve" font-size="13"><tspan fill="#6e7681">         ▸ Elliptic curve &amp; pairing-based crypto</tspan></text>
+<text x="32" y="821" xml:space="preserve" font-size="13"><tspan fill="#6e7681">         ▸ Lattice-based cryptanalysis (LLL, BKZ)</tspan></text>
+<text x="32" y="841" xml:space="preserve" font-size="13"><tspan fill="#6e7681">         ▸ Algebraic attacks on symmetric primitives</tspan></text>
+<text x="32" y="861" xml:space="preserve" font-size="13"><tspan fill="#6e7681">         ▸ Classical cryptanalysis</tspan></text>
+<text x="32" y="901" xml:space="preserve" font-size="13"><tspan fill="#6e7681">        Assessment:  </tspan><tspan fill="#ff0040" font-weight="700">MASTERED</tspan><tspan fill="#6e7681"> — primary threat vector</tspan></text>
+<text x="32" y="941" xml:space="preserve" font-size="13"><tspan fill="#e6edf3">   </tspan><tspan fill="#d2a8ff" font-weight="700">§3.2 — MACHINE LEARNING</tspan><tspan fill="#e6edf3">  </tspan><tspan fill="#ff5c6c" font-weight="700">[HIGH]</tspan></text>
+<text x="32" y="981" xml:space="preserve" font-size="13"><tspan fill="#6e7681">        Significant competence in both classical and deep</tspan></text>
+<text x="32" y="1001" xml:space="preserve" font-size="13"><tspan fill="#6e7681">        learning approaches. The combination of ML and</tspan></text>
+<text x="32" y="1021" xml:space="preserve" font-size="13"><tspan fill="#6e7681">        cryptographic expertise is particularly concerning,</tspan></text>
+<text x="32" y="1041" xml:space="preserve" font-size="13"><tspan fill="#6e7681">        as it enables advanced side-channel attacks and</tspan></text>
+<text x="32" y="1061" xml:space="preserve" font-size="13"><tspan fill="#6e7681">        novel cryptanalytic techniques.</tspan></text>
+<text x="32" y="1101" xml:space="preserve" font-size="13"><tspan fill="#6e7681">        Areas:</tspan></text>
+<text x="32" y="1121" xml:space="preserve" font-size="13"><tspan fill="#6e7681">         ▸ Deep learning (neural architectures, training)</tspan></text>
+<text x="32" y="1141" xml:space="preserve" font-size="13"><tspan fill="#6e7681">         ▸ Classical ML (regression, classification, SVM)</tspan></text>
+<text x="32" y="1161" xml:space="preserve" font-size="13"><tspan fill="#6e7681">         ▸ ML + crypto intersection (adversarial, ML-SCA)</tspan></text>
+<text x="32" y="1181" xml:space="preserve" font-size="13"><tspan fill="#6e7681">         ▸ Data pipelines &amp; feature engineering</tspan></text>
+<text x="32" y="1221" xml:space="preserve" font-size="13"><tspan fill="#6e7681">        Assessment:  </tspan><tspan fill="#d2a8ff" font-weight="700">ADVANCED</tspan></text>
+<text x="32" y="1261" xml:space="preserve" font-size="13"><tspan fill="#e6edf3">   </tspan><tspan fill="#58a6ff" font-weight="700">§3.3 — WEB DEVELOPMENT &amp; DEVOPS</tspan><tspan fill="#e6edf3">  </tspan><tspan fill="#e3b341" font-weight="700">[HIGH]</tspan></text>
+<text x="32" y="1301" xml:space="preserve" font-size="13"><tspan fill="#6e7681">        Backend-focused full-stack development with strong</tspan></text>
+<text x="32" y="1321" xml:space="preserve" font-size="13"><tspan fill="#6e7681">        emphasis on infrastructure and deployment. Systems</tspan></text>
+<text x="32" y="1341" xml:space="preserve" font-size="13"><tspan fill="#6e7681">        programming background informs DevOps practices,</tspan></text>
+<text x="32" y="1361" xml:space="preserve" font-size="13"><tspan fill="#6e7681">        resulting in performant and well-architected services.</tspan></text>
+<text x="32" y="1401" xml:space="preserve" font-size="13"><tspan fill="#6e7681">        Capabilities:</tspan></text>
+<text x="32" y="1421" xml:space="preserve" font-size="13"><tspan fill="#6e7681">         ▸ Backend APIs in Go (native) and Node.js</tspan></text>
+<text x="32" y="1441" xml:space="preserve" font-size="13"><tspan fill="#6e7681">         ▸ Relational (PostgreSQL) &amp; in-memory (Redis) DBs</tspan></text>
+<text x="32" y="1461" xml:space="preserve" font-size="13"><tspan fill="#6e7681">         ▸ Container orchestration with Docker &amp; Kubernetes</tspan></text>
+<text x="32" y="1481" xml:space="preserve" font-size="13"><tspan fill="#6e7681">         ▸ CI/CD pipelines via GitHub Actions</tspan></text>
+<text x="32" y="1501" xml:space="preserve" font-size="13"><tspan fill="#6e7681">         ▸ Infrastructure automation &amp; service mesh</tspan></text>
+<text x="32" y="1541" xml:space="preserve" font-size="13"><tspan fill="#6e7681">        Assessment:  </tspan><tspan fill="#58a6ff" font-weight="700">PROFICIENT</tspan></text>
+<text x="32" y="1581" xml:space="preserve" font-size="13"><tspan fill="#e6edf3">   </tspan><tspan fill="#ff5c6c" font-weight="700">§3.4 — REVERSE ENGINEERING &amp; EXPLOITATION</tspan><tspan fill="#e6edf3">  </tspan><tspan fill="#e3b341" font-weight="700">[HIGH]</tspan></text>
+<text x="32" y="1621" xml:space="preserve" font-size="13"><tspan fill="#6e7681">        Capable of analyzing stripped binaries at both</tspan></text>
+<text x="32" y="1641" xml:space="preserve" font-size="13"><tspan fill="#6e7681">        static and dynamic levels. Develops custom exploits</tspan></text>
+<text x="32" y="1661" xml:space="preserve" font-size="13"><tspan fill="#6e7681">        for memory corruption vulnerabilities, builds ROP</tspan></text>
+<text x="32" y="1681" xml:space="preserve" font-size="13"><tspan fill="#6e7681">        chains, and writes position-independent shellcode.</tspan></text>
+<text x="32" y="1721" xml:space="preserve" font-size="13"><tspan fill="#6e7681">        Capabilities:</tspan></text>
+<text x="32" y="1741" xml:space="preserve" font-size="13"><tspan fill="#6e7681">         ▸ Static disassembly &amp; decompilation</tspan></text>
+<text x="32" y="1761" xml:space="preserve" font-size="13"><tspan fill="#6e7681">         ▸ Dynamic analysis — debugging, tracing, fuzzing</tspan></text>
+<text x="32" y="1781" xml:space="preserve" font-size="13"><tspan fill="#6e7681">         ▸ Memory corruption — stack/heap exploitation</tspan></text>
+<text x="32" y="1801" xml:space="preserve" font-size="13"><tspan fill="#6e7681">         ▸ ROP chain construction &amp; shellcode</tspan></text>
+<text x="32" y="1821" xml:space="preserve" font-size="13"><tspan fill="#6e7681">         ▸ Emulation-based testing (cross-architecture)</tspan></text>
+<text x="32" y="1861" xml:space="preserve" font-size="13"><tspan fill="#6e7681">        Assessment:  </tspan><tspan fill="#ff5c6c" font-weight="700">PROFICIENT</tspan></text>
+<text x="32" y="1901" xml:space="preserve" font-size="13"><tspan fill="#e6edf3">   </tspan><tspan fill="#56d4dd" font-weight="700">§3.5 — WEB SECURITY</tspan><tspan fill="#e6edf3">  </tspan><tspan fill="#e3b341">[MODERATE]</tspan></text>
+<text x="32" y="1941" xml:space="preserve" font-size="13"><tspan fill="#6e7681">        Web application testing with focus on automated</tspan></text>
+<text x="32" y="1961" xml:space="preserve" font-size="13"><tspan fill="#6e7681">        vulnerability detection and manual exploitation.</tspan></text>
+<text x="32" y="2001" xml:space="preserve" font-size="13"><tspan fill="#6e7681">        Assessment:  </tspan><tspan fill="#56d4dd" font-weight="700">COMPETENT</tspan></text>
+<text x="32" y="2041" xml:space="preserve" font-size="13"><tspan fill="#ffffff" font-weight="700">§4. CONFIRMED TOOLCHAIN</tspan></text>
+<text x="32" y="2081" xml:space="preserve" font-size="13"><tspan fill="#6e7681">   ┌──────────────────────────────────────────────────────┐</tspan></text>
+<text x="32" y="2101" xml:space="preserve" font-size="13"><tspan fill="#6e7681">   │                                                      │</tspan></text>
+<text x="32" y="2121" xml:space="preserve" font-size="13"><tspan fill="#6e7681">   │  </tspan><tspan fill="#f0883e" font-weight="700">crypto    </tspan><tspan fill="#e6edf3">SageMath · Z3 Solver · Mathematica        </tspan><tspan fill="#6e7681">│</tspan></text>
+<text x="32" y="2141" xml:space="preserve" font-size="13"><tspan fill="#6e7681">   │  </tspan><tspan fill="#d2a8ff" font-weight="700">ml        </tspan><tspan fill="#e6edf3">PyTorch · TensorFlow · scikit-learn       </tspan><tspan fill="#6e7681">│</tspan></text>
+<text x="32" y="2161" xml:space="preserve" font-size="13"><tspan fill="#6e7681">   │  </tspan><tspan fill="#58a6ff" font-weight="700">web       </tspan><tspan fill="#e6edf3">Go · Node.js · PostgreSQL · Redis         </tspan><tspan fill="#6e7681">│</tspan></text>
+<text x="32" y="2181" xml:space="preserve" font-size="13"><tspan fill="#6e7681">   │  </tspan><tspan fill="#58a6ff" font-weight="700">devops    </tspan><tspan fill="#e6edf3">Docker · Kubernetes · GitHub Actions      </tspan><tspan fill="#6e7681">│</tspan></text>
+<text x="32" y="2201" xml:space="preserve" font-size="13"><tspan fill="#6e7681">   │  </tspan><tspan fill="#ff5c6c" font-weight="700">reverse   </tspan><tspan fill="#e6edf3">IDA Pro · Ghidra · GDB (pwndbg/GEF)       </tspan><tspan fill="#6e7681">│</tspan></text>
+<text x="32" y="2221" xml:space="preserve" font-size="13"><tspan fill="#6e7681">   │  </tspan><tspan fill="#ff5c6c" font-weight="700">pwn       </tspan><tspan fill="#e6edf3">QEMU                                      </tspan><tspan fill="#6e7681">│</tspan></text>
+<text x="32" y="2241" xml:space="preserve" font-size="13"><tspan fill="#6e7681">   │  </tspan><tspan fill="#56d4dd" font-weight="700">security  </tspan><tspan fill="#e6edf3">Burp Suite · Nuclei                       </tspan><tspan fill="#6e7681">│</tspan></text>
+<text x="32" y="2261" xml:space="preserve" font-size="13"><tspan fill="#6e7681">   │                                                      │</tspan></text>
+<text x="32" y="2281" xml:space="preserve" font-size="13"><tspan fill="#6e7681">   └──────────────────────────────────────────────────────┘</tspan></text>
+<text x="32" y="2321" xml:space="preserve" font-size="13"><tspan fill="#ffffff" font-weight="700">§5. BEHAVIORAL PROFILE</tspan></text>
+<text x="32" y="2361" xml:space="preserve" font-size="13"><tspan fill="#e6edf3">   </tspan><tspan fill="#6e7681">Motto:  </tspan><tspan fill="#7ee787">"Low level is the way"</tspan></text>
+<text x="32" y="2401" xml:space="preserve" font-size="13"><tspan fill="#e6edf3">   </tspan><tspan fill="#e3b341">Intercepted personal quote (origin: Jason Statham):</tspan></text>
+<text x="32" y="2441" xml:space="preserve" font-size="13"><tspan fill="#6e7681">   ┌─────────────────────────────────────────────────────┐</tspan></text>
+<text x="32" y="2461" xml:space="preserve" font-size="13"><tspan fill="#6e7681">   │                                                     │</tspan></text>
+<text x="32" y="2481" xml:space="preserve" font-size="13"><tspan fill="#6e7681">   │  </tspan><tspan fill="#ffffff" font-weight="700">❝ Работа не волк. Никто не волк.</tspan><tspan fill="#6e7681">                   │</tspan></text>
+<text x="32" y="2501" xml:space="preserve" font-size="13"><tspan fill="#6e7681">   │  </tspan><tspan fill="#ffffff" font-weight="700">  Только волк — волк. ❞</tspan><tspan fill="#6e7681">                            │</tspan></text>
+<text x="32" y="2521" xml:space="preserve" font-size="13"><tspan fill="#6e7681">   │                                                     │</tspan></text>
+<text x="32" y="2541" xml:space="preserve" font-size="13"><tspan fill="#6e7681">   │  </tspan><tspan fill="#e6edf3">❝ Work is not a wolf. Nobody is a wolf.</tspan><tspan fill="#6e7681">            │</tspan></text>
+<text x="32" y="2561" xml:space="preserve" font-size="13"><tspan fill="#6e7681">   │  </tspan><tspan fill="#e6edf3">  Only a wolf is a wolf. ❞</tspan><tspan fill="#6e7681">                         │</tspan></text>
+<text x="32" y="2581" xml:space="preserve" font-size="13"><tspan fill="#6e7681">   │                                                     │</tspan></text>
+<text x="32" y="2601" xml:space="preserve" font-size="13"><tspan fill="#6e7681">   │                                     </tspan><tspan fill="#e3b341">— Jason Statham</tspan><tspan fill="#6e7681"> │</tspan></text>
+<text x="32" y="2621" xml:space="preserve" font-size="13"><tspan fill="#6e7681">   │                                                     │</tspan></text>
+<text x="32" y="2641" xml:space="preserve" font-size="13"><tspan fill="#6e7681">   └─────────────────────────────────────────────────────┘</tspan></text>
+<text x="32" y="2681" xml:space="preserve" font-size="13"><tspan fill="#ffffff" font-weight="700">§6. RECOMMENDATIONS</tspan></text>
+<text x="32" y="2721" xml:space="preserve" font-size="13"><tspan fill="#ff7b72">   ▸ Do not underestimate the mathematical background.</tspan></text>
+<text x="32" y="2741" xml:space="preserve" font-size="13"><tspan fill="#ff7b72">     Standard cryptographic implementations may fall to</tspan></text>
+<text x="32" y="2761" xml:space="preserve" font-size="13"><tspan fill="#ff7b72">     unconventional algebraic attacks.</tspan></text>
+<text x="32" y="2801" xml:space="preserve" font-size="13"><tspan fill="#ff7b72">   ▸ The ML-crypto intersection creates novel attack</tspan></text>
+<text x="32" y="2821" xml:space="preserve" font-size="13"><tspan fill="#ff7b72">     surfaces that traditional defenses do not address.</tspan></text>
+<text x="32" y="2861" xml:space="preserve" font-size="13"><tspan fill="#ff7b72">   ▸ Engagement only with full team support recommended.</tspan></text>
+<text x="32" y="2881" xml:space="preserve" font-size="13"><tspan fill="#ff7b72">     Preferably teams including PhD-level cryptographers.</tspan></text>
+<text x="32" y="2921" xml:space="preserve" font-size="13"><tspan fill="#6e7681">────────────────────────────────────────────────────────</tspan></text>
+<text x="32" y="2941" xml:space="preserve" font-size="13"><tspan fill="#6e7681">Report filed by:   4x10m Intelligence Division</tspan></text>
+<text x="32" y="2961" xml:space="preserve" font-size="13"><tspan fill="#6e7681">Classification:    TOP SECRET // REL TO CTF PLAYERS</tspan></text>
+<text x="32" y="2981" xml:space="preserve" font-size="13"><tspan fill="#6e7681">Distribution:      Team leads only</tspan></text>
+</svg>
