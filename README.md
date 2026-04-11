@@ -9,7 +9,7 @@
 ## About Me
 
 <div align="center">
-  <img src="./about_report.svg" alt="h1z3" width="800"/>
+  <img src="./about_report.svg" alt="h1z3" width="900"/>
 </div>
 
 <!--
