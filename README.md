@@ -6,6 +6,9 @@
 
 </div>
 
+## About Me
+
+```
 ┌────────────────────────────────────────────────────────┐
 │ ██  CLASSIFIED — THREAT INTELLIGENCE REPORT  ██        │
 │ Report ID: TIR-2024-H1Z3    Classification: TOP SECRET │
@@ -49,8 +52,7 @@
          ▸ Algebraic attacks on symmetric primitives
          ▸ Classical cryptanalysis (frequency, known-plaintext)
 
-        Tools observed: SageMath · Z3 Solver · Mathematica
-        Assessment:     MASTERED — primary threat vector
+        Assessment:  MASTERED — primary threat vector
 
    §3.2 — MACHINE LEARNING  [HIGH]
 
@@ -66,8 +68,7 @@
          ▸ ML + crypto intersection (adversarial, ML-SCA)
          ▸ Data pipelines & feature engineering
 
-        Tools observed: PyTorch · TensorFlow · scikit-learn
-        Assessment:     ADVANCED
+        Assessment:  ADVANCED
 
    §3.3 — WEB DEVELOPMENT & DEVOPS  [HIGH]
 
@@ -84,9 +85,7 @@
          ▸ CI/CD pipelines via GitHub Actions
          ▸ Infrastructure automation & service mesh
 
-        Tools observed: Go · Node.js · Docker · Kubernetes
-                        PostgreSQL · Redis · GitHub Actions
-        Assessment:     PROFICIENT
+        Assessment:  PROFICIENT
 
    §3.4 — REVERSE ENGINEERING & EXPLOITATION  [HIGH]
 
@@ -104,35 +103,46 @@
          ▸ ROP chain construction & shellcode development
          ▸ Emulation-based testing (cross-architecture)
 
-        Tools observed: IDA Pro · Ghidra · GDB (pwndbg/GEF)
-                        QEMU
-        Assessment:     PROFICIENT
+        Assessment:  PROFICIENT
 
    §3.5 — WEB SECURITY  [MODERATE]
 
         Web application testing with focus on automated
         vulnerability detection and manual exploitation.
 
-        Tools observed: Burp Suite · Nuclei
-        Assessment:     COMPETENT
+        Assessment:  COMPETENT
 
-§4. BEHAVIORAL PROFILE
+§4. CONFIRMED TOOLCHAIN
 
-   Motto:           "Low level is the way"
+   ┌──────────────────────────────────────────────────────┐
+   │                                                      │
+   │  crypto    SageMath · Z3 Solver · Mathematica        │
+   │  ml        PyTorch · TensorFlow · scikit-learn       │
+   │  web       Go · Node.js · PostgreSQL · Redis         │
+   │  devops    Docker · Kubernetes · GitHub Actions      │
+   │  reverse   IDA Pro · Ghidra · GDB (pwndbg/GEF)       │
+   │  pwn       QEMU                                      │
+   │  security  Burp Suite · Nuclei                       │
+   │                                                      │
+   └──────────────────────────────────────────────────────┘
+
+§5. BEHAVIORAL PROFILE
+
+   Motto:  "Low level is the way"
 
    Intercepted personal quote (origin: Jason Statham):
 
    ┌─────────────────────────────────────────────────────┐
-   │  ❝ Работа не волк. Никто не волк.                 │
-   │    Только волк — волк. ❞                           │
+   │  ❝ Работа не волк. Никто не волк.                   │
+   │    Только волк — волк. ❞                            │
    │                                                     │
    │  ❝ Work is not a wolf. Nobody is a wolf.            │
    │    Only a wolf is a wolf. ❞                         │
    │                                                     │
-   │                                   — Jason Statham  │
+   │                                   — Jason Statham   │
    └─────────────────────────────────────────────────────┘
 
-§5. RECOMMENDATIONS
+§6. RECOMMENDATIONS
 
    ▸ Do not underestimate the mathematical background.
      Standard cryptographic implementations may fall
@@ -148,6 +158,7 @@
 Report filed by:   4x10m Intelligence Division
 Classification:    TOP SECRET // REL TO CTF PLAYERS
 Distribution:      Team leads only
+```
 
 <!--
 **H1z3-br0/H1z3-br0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
