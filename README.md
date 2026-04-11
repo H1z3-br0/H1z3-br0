@@ -6,7 +6,6 @@
 
 </div>
 
-```
 ┌────────────────────────────────────────────────────────┐
 │ ██  CLASSIFIED — THREAT INTELLIGENCE REPORT  ██        │
 │ Report ID: TIR-2024-H1Z3    Classification: TOP SECRET │
@@ -149,7 +148,6 @@
 Report filed by:   4x10m Intelligence Division
 Classification:    TOP SECRET // REL TO CTF PLAYERS
 Distribution:      Team leads only
-```
 
 <!--
 **H1z3-br0/H1z3-br0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
