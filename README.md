@@ -2,10 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=venom&color=0%3A450a0a%2C100%3Ab91c1c&height=200&section=header&text=h1z3&fontSize=46&fontColor=fee2e2&fontAlignY=38&desc=@%204x10m+team&descSize=16&descColor=f87171&descAlignY=58&animation=fadeIn)
 
-</div>
-
-<div align="center">
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1500&pause=500&color=FF0040&background=0D111700&center=true&vCenter=true&width=600&lines=Cryptographer+;Reverse+Engineer;Userspace+PWNer;Web+Developer;DevOps+×+AppSec;Math+Enthusiast;Low+level+is+the+way)](https://git.io/typing-svg)
 
 </div>
