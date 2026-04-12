@@ -14,13 +14,13 @@
 <text x="32" y="261" xml:space="preserve" font-size="13"><tspan fill="#e6edf3">   </tspan><tspan fill="#6e7681">Status:         </tspan><tspan fill="#7ee787">ACTIVE</tspan><tspan fill="#6e7681"> — capturing flags in real time</tspan></text>
 <text x="32" y="281" xml:space="preserve" font-size="13"><tspan fill="#e6edf3">   </tspan><tspan fill="#6e7681">Priority:       </tspan><tspan fill="#ff5c6c" font-weight="700">MAXIMUM</tspan></text>
 <text x="32" y="321" xml:space="preserve" font-size="13"><tspan fill="#ffffff" font-weight="700">§2. INFRASTRUCTURE PROFILE</tspan></text>
-<text x="32" y="361" xml:space="preserve" font-size="13"><tspan fill="#6e7681">   ┌──────────────────────────────────────────────┐</tspan></text>
-<text x="32" y="381" xml:space="preserve" font-size="13"><tspan fill="#6e7681">   │  </tspan><tspan fill="#58a6ff" font-weight="700">Operating System</tspan><tspan fill="#e6edf3">    macOS (primary)         </tspan><tspan fill="#6e7681">│</tspan></text>
-<text x="32" y="401" xml:space="preserve" font-size="13"><tspan fill="#6e7681">   │                      </tspan><tspan fill="#e6edf3">Kali Linux (offensive)  </tspan><tspan fill="#6e7681">│</tspan></text>
-<text x="32" y="421" xml:space="preserve" font-size="13"><tspan fill="#6e7681">   │  </tspan><tspan fill="#58a6ff" font-weight="700">Shell</tspan><tspan fill="#e6edf3">               zsh                     </tspan><tspan fill="#6e7681">│</tspan></text>
-<text x="32" y="441" xml:space="preserve" font-size="13"><tspan fill="#6e7681">   │  </tspan><tspan fill="#58a6ff" font-weight="700">Editor</tspan><tspan fill="#e6edf3">              neovim                  </tspan><tspan fill="#6e7681">│</tspan></text>
+<text x="32" y="361" xml:space="preserve" font-size="13"><tspan fill="#6e7681">   ┌───────────────────────────────────────────────┐</tspan></text>
+<text x="32" y="381" xml:space="preserve" font-size="13"><tspan fill="#6e7681">   │  </tspan><tspan fill="#58a6ff" font-weight="700">Operating System</tspan><tspan fill="#e6edf3">    macOS (primary)          </tspan><tspan fill="#6e7681">│</tspan></text>
+<text x="32" y="401" xml:space="preserve" font-size="13"><tspan fill="#6e7681">   │                      </tspan><tspan fill="#e6edf3">Kali Linux (offensive)   </tspan><tspan fill="#6e7681">│</tspan></text>
+<text x="32" y="421" xml:space="preserve" font-size="13"><tspan fill="#6e7681">   │  </tspan><tspan fill="#58a6ff" font-weight="700">Shell</tspan><tspan fill="#e6edf3">               zsh                      </tspan><tspan fill="#6e7681">│</tspan></text>
+<text x="32" y="441" xml:space="preserve" font-size="13"><tspan fill="#6e7681">   │  </tspan><tspan fill="#58a6ff" font-weight="700">Editor</tspan><tspan fill="#e6edf3">              neovim                   </tspan><tspan fill="#6e7681">│</tspan></text>
 <text x="32" y="461" xml:space="preserve" font-size="13"><tspan fill="#6e7681">   │  </tspan><tspan fill="#58a6ff" font-weight="700">Languages</tspan><tspan fill="#e6edf3">           Rust · Go · C/C++ · Sage </tspan><tspan fill="#6e7681">│</tspan></text>
-<text x="32" y="481" xml:space="preserve" font-size="13"><tspan fill="#6e7681">   └──────────────────────────────────────────────┘</tspan></text>
+<text x="32" y="481" xml:space="preserve" font-size="13"><tspan fill="#6e7681">   └───────────────────────────────────────────────┘</tspan></text>
 <text x="32" y="521" xml:space="preserve" font-size="13"><tspan fill="#ffffff" font-weight="700">§3. CAPABILITY ASSESSMENT</tspan></text>
 <text x="32" y="561" xml:space="preserve" font-size="13"><tspan fill="#e6edf3">   </tspan><tspan fill="#f0883e" font-weight="700">§3.1 — MATHEMATICS &amp; CRYPTOGRAPHY</tspan><tspan fill="#e6edf3">  </tspan><tspan fill="#ff0040" font-weight="700">[CRITICAL]</tspan></text>
 <text x="32" y="601" xml:space="preserve" font-size="13"><tspan fill="#6e7681">        The subject demonstrates elite-level proficiency</tspan></text>
