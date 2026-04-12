@@ -84,35 +84,34 @@
 <text x="32" y="2141" xml:space="preserve" font-size="13"><tspan fill="#6e7681">   │  </tspan><tspan fill="#d2a8ff" font-weight="700">ml        </tspan><tspan fill="#e6edf3">PyTorch · TensorFlow · scikit-learn       </tspan><tspan fill="#6e7681">│</tspan></text>
 <text x="32" y="2161" xml:space="preserve" font-size="13"><tspan fill="#6e7681">   │  </tspan><tspan fill="#58a6ff" font-weight="700">web       </tspan><tspan fill="#e6edf3">Go · Node.js · PostgreSQL · Redis         </tspan><tspan fill="#6e7681">│</tspan></text>
 <text x="32" y="2181" xml:space="preserve" font-size="13"><tspan fill="#6e7681">   │  </tspan><tspan fill="#58a6ff" font-weight="700">devops    </tspan><tspan fill="#e6edf3">Docker · Kubernetes · GitHub Actions      </tspan><tspan fill="#6e7681">│</tspan></text>
-<text x="32" y="2201" xml:space="preserve" font-size="13"><tspan fill="#6e7681">   │  </tspan><tspan fill="#ff5c6c" font-weight="700">reverse   </tspan><tspan fill="#e6edf3">IDA Pro · Ghidra · GDB (pwndbg/GEF)       </tspan><tspan fill="#6e7681">│</tspan></text>
-<text x="32" y="2221" xml:space="preserve" font-size="13"><tspan fill="#6e7681">   │  </tspan><tspan fill="#ff5c6c" font-weight="700">pwn       </tspan><tspan fill="#e6edf3">QEMU                                      </tspan><tspan fill="#6e7681">│</tspan></text>
-<text x="32" y="2241" xml:space="preserve" font-size="13"><tspan fill="#6e7681">   │  </tspan><tspan fill="#56d4dd" font-weight="700">security  </tspan><tspan fill="#e6edf3">Burp Suite · Nuclei                       </tspan><tspan fill="#6e7681">│</tspan></text>
-<text x="32" y="2261" xml:space="preserve" font-size="13"><tspan fill="#6e7681">   │                                                      │</tspan></text>
-<text x="32" y="2281" xml:space="preserve" font-size="13"><tspan fill="#6e7681">   └──────────────────────────────────────────────────────┘</tspan></text>
-<text x="32" y="2321" xml:space="preserve" font-size="13"><tspan fill="#ffffff" font-weight="700">§5. BEHAVIORAL PROFILE</tspan></text>
-<text x="32" y="2361" xml:space="preserve" font-size="13"><tspan fill="#e6edf3">   </tspan><tspan fill="#6e7681">Motto:  </tspan><tspan fill="#7ee787">"Low level is the way"</tspan></text>
-<text x="32" y="2401" xml:space="preserve" font-size="13"><tspan fill="#e6edf3">   </tspan><tspan fill="#e3b341">Intercepted personal quote (origin: Jason Statham):</tspan></text>
-<text x="32" y="2441" xml:space="preserve" font-size="13"><tspan fill="#6e7681">   ┌─────────────────────────────────────────────────────┐</tspan></text>
-<text x="32" y="2461" xml:space="preserve" font-size="13"><tspan fill="#6e7681">   │                                                     │</tspan></text>
-<text x="32" y="2481" xml:space="preserve" font-size="13"><tspan fill="#6e7681">   │  </tspan><tspan fill="#ffffff" font-weight="700">❝ Работа не волк. Никто не волк.</tspan><tspan fill="#6e7681">                   │</tspan></text>
-<text x="32" y="2501" xml:space="preserve" font-size="13"><tspan fill="#6e7681">   │  </tspan><tspan fill="#ffffff" font-weight="700">  Только волк — волк. ❞</tspan><tspan fill="#6e7681">                            │</tspan></text>
-<text x="32" y="2521" xml:space="preserve" font-size="13"><tspan fill="#6e7681">   │                                                     │</tspan></text>
-<text x="32" y="2541" xml:space="preserve" font-size="13"><tspan fill="#6e7681">   │  </tspan><tspan fill="#e6edf3">❝ Work is not a wolf. Nobody is a wolf.</tspan><tspan fill="#6e7681">            │</tspan></text>
-<text x="32" y="2561" xml:space="preserve" font-size="13"><tspan fill="#6e7681">   │  </tspan><tspan fill="#e6edf3">  Only a wolf is a wolf. ❞</tspan><tspan fill="#6e7681">                         │</tspan></text>
-<text x="32" y="2581" xml:space="preserve" font-size="13"><tspan fill="#6e7681">   │                                                     │</tspan></text>
-<text x="32" y="2601" xml:space="preserve" font-size="13"><tspan fill="#6e7681">   │                                     </tspan><tspan fill="#e3b341">— Jason Statham</tspan><tspan fill="#6e7681"> │</tspan></text>
-<text x="32" y="2621" xml:space="preserve" font-size="13"><tspan fill="#6e7681">   │                                                     │</tspan></text>
-<text x="32" y="2641" xml:space="preserve" font-size="13"><tspan fill="#6e7681">   └─────────────────────────────────────────────────────┘</tspan></text>
-<text x="32" y="2681" xml:space="preserve" font-size="13"><tspan fill="#ffffff" font-weight="700">§6. RECOMMENDATIONS</tspan></text>
-<text x="32" y="2721" xml:space="preserve" font-size="13"><tspan fill="#ff7b72">   ▸ Do not underestimate the mathematical background.</tspan></text>
-<text x="32" y="2741" xml:space="preserve" font-size="13"><tspan fill="#ff7b72">     Standard cryptographic implementations may fall to</tspan></text>
-<text x="32" y="2761" xml:space="preserve" font-size="13"><tspan fill="#ff7b72">     unconventional algebraic attacks.</tspan></text>
-<text x="32" y="2801" xml:space="preserve" font-size="13"><tspan fill="#ff7b72">   ▸ The ML-crypto intersection creates novel attack</tspan></text>
-<text x="32" y="2821" xml:space="preserve" font-size="13"><tspan fill="#ff7b72">     surfaces that traditional defenses do not address.</tspan></text>
-<text x="32" y="2861" xml:space="preserve" font-size="13"><tspan fill="#ff7b72">   ▸ Engagement only with full team support recommended.</tspan></text>
-<text x="32" y="2881" xml:space="preserve" font-size="13"><tspan fill="#ff7b72">     Preferably teams including PhD-level cryptographers.</tspan></text>
-<text x="32" y="2921" xml:space="preserve" font-size="13"><tspan fill="#6e7681">────────────────────────────────────────────────────────</tspan></text>
-<text x="32" y="2941" xml:space="preserve" font-size="13"><tspan fill="#6e7681">Report filed by:   4x10m Intelligence Division</tspan></text>
-<text x="32" y="2961" xml:space="preserve" font-size="13"><tspan fill="#6e7681">Classification:    TOP SECRET // REL TO CTF PLAYERS</tspan></text>
-<text x="32" y="2981" xml:space="preserve" font-size="13"><tspan fill="#6e7681">Distribution:      Team leads only</tspan></text>
+<text x="32" y="2201" xml:space="preserve" font-size="13"><tspan fill="#6e7681">   │  </tspan><tspan fill="#ff5c6c" font-weight="700">rev/pwn   </tspan><tspan fill="#e6edf3">IDA Pro · Ghidra · GDB (pwndbg/GEF)       </tspan><tspan fill="#6e7681">│</tspan></text>
+<text x="32" y="2221" xml:space="preserve" font-size="13"><tspan fill="#6e7681">   │  </tspan><tspan fill="#56d4dd" font-weight="700">security  </tspan><tspan fill="#e6edf3">Burp Suite · Nuclei · Suricata            </tspan><tspan fill="#6e7681">│</tspan></text>
+<text x="32" y="2241" xml:space="preserve" font-size="13"><tspan fill="#6e7681">   │                                                      │</tspan></text>
+<text x="32" y="2261" xml:space="preserve" font-size="13"><tspan fill="#6e7681">   └──────────────────────────────────────────────────────┘</tspan></text>
+<text x="32" y="2301" xml:space="preserve" font-size="13"><tspan fill="#ffffff" font-weight="700">§5. BEHAVIORAL PROFILE</tspan></text>
+<text x="32" y="2341" xml:space="preserve" font-size="13"><tspan fill="#e6edf3">   </tspan><tspan fill="#6e7681">Motto:  </tspan><tspan fill="#7ee787">"Low level is the way"</tspan></text>
+<text x="32" y="2381" xml:space="preserve" font-size="13"><tspan fill="#e6edf3">   </tspan><tspan fill="#e3b341">Intercepted personal quote (origin: Jason Statham):</tspan></text>
+<text x="32" y="2421" xml:space="preserve" font-size="13"><tspan fill="#6e7681">   ┌─────────────────────────────────────────────────────┐</tspan></text>
+<text x="32" y="2441" xml:space="preserve" font-size="13"><tspan fill="#6e7681">   │                                                     │</tspan></text>
+<text x="32" y="2461" xml:space="preserve" font-size="13"><tspan fill="#6e7681">   │  </tspan><tspan fill="#ffffff" font-weight="700">❝ Работа не волк. Никто не волк.</tspan><tspan fill="#6e7681">                   │</tspan></text>
+<text x="32" y="2481" xml:space="preserve" font-size="13"><tspan fill="#6e7681">   │  </tspan><tspan fill="#ffffff" font-weight="700">  Только волк — волк. ❞</tspan><tspan fill="#6e7681">                            │</tspan></text>
+<text x="32" y="2501" xml:space="preserve" font-size="13"><tspan fill="#6e7681">   │                                                     │</tspan></text>
+<text x="32" y="2521" xml:space="preserve" font-size="13"><tspan fill="#6e7681">   │  </tspan><tspan fill="#e6edf3">❝ Work is not a wolf. Nobody is a wolf.</tspan><tspan fill="#6e7681">            │</tspan></text>
+<text x="32" y="2541" xml:space="preserve" font-size="13"><tspan fill="#6e7681">   │  </tspan><tspan fill="#e6edf3">  Only a wolf is a wolf. ❞</tspan><tspan fill="#6e7681">                         │</tspan></text>
+<text x="32" y="2561" xml:space="preserve" font-size="13"><tspan fill="#6e7681">   │                                                     │</tspan></text>
+<text x="32" y="2581" xml:space="preserve" font-size="13"><tspan fill="#6e7681">   │                                     </tspan><tspan fill="#e3b341">— Jason Statham</tspan><tspan fill="#6e7681"> │</tspan></text>
+<text x="32" y="2601" xml:space="preserve" font-size="13"><tspan fill="#6e7681">   │                                                     │</tspan></text>
+<text x="32" y="2621" xml:space="preserve" font-size="13"><tspan fill="#6e7681">   └─────────────────────────────────────────────────────┘</tspan></text>
+<text x="32" y="2661" xml:space="preserve" font-size="13"><tspan fill="#ffffff" font-weight="700">§6. RECOMMENDATIONS</tspan></text>
+<text x="32" y="2701" xml:space="preserve" font-size="13"><tspan fill="#ff7b72">   ▸ Do not underestimate the mathematical background.</tspan></text>
+<text x="32" y="2721" xml:space="preserve" font-size="13"><tspan fill="#ff7b72">     Standard cryptographic implementations may fall to</tspan></text>
+<text x="32" y="2741" xml:space="preserve" font-size="13"><tspan fill="#ff7b72">     unconventional algebraic attacks.</tspan></text>
+<text x="32" y="2781" xml:space="preserve" font-size="13"><tspan fill="#ff7b72">   ▸ The ML-crypto intersection creates novel attack</tspan></text>
+<text x="32" y="2801" xml:space="preserve" font-size="13"><tspan fill="#ff7b72">     surfaces that traditional defenses do not address.</tspan></text>
+<text x="32" y="2841" xml:space="preserve" font-size="13"><tspan fill="#ff7b72">   ▸ Engagement only with full team support recommended.</tspan></text>
+<text x="32" y="2861" xml:space="preserve" font-size="13"><tspan fill="#ff7b72">     Preferably teams including PhD-level cryptographers.</tspan></text>
+<text x="32" y="2901" xml:space="preserve" font-size="13"><tspan fill="#6e7681">────────────────────────────────────────────────────────</tspan></text>
+<text x="32" y="2921" xml:space="preserve" font-size="13"><tspan fill="#6e7681">Report filed by:   4x10m Intelligence Division</tspan></text>
+<text x="32" y="2941" xml:space="preserve" font-size="13"><tspan fill="#6e7681">Classification:    TOP SECRET // REL TO CTF PLAYERS</tspan></text>
+<text x="32" y="2961" xml:space="preserve" font-size="13"><tspan fill="#6e7681">Distribution:      Team leads only</tspan></text>
 </svg>
