@@ -23,7 +23,7 @@
 </div>
 
 ```
-user@h1z3:~$ figlet -f slant h1z3
+root@h1z3:~$ cat h1z3
 ```
 ```
                                     .--,-``-.     
@@ -42,7 +42,7 @@ user@h1z3:~$ figlet -f slant h1z3
                                     `--`-,,-'     
 ```
 ```
-user@h1z3:~$ cat dossier.txt
+root@h1z3:~$ cat report.md
 ```
 
 ## `§1.` EXECUTIVE SUMMARY
