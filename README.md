@@ -26,19 +26,19 @@
 ## `§1.` EXECUTIVE SUMMARY
 
 ```diff
-  Designation:     h1z3
-  Aliases:         [REDACTED], [REDACTED], "the one who solves crypto"
-  Affiliation:     4x10m  (CTF team, active roster)
-  Role:            crypto/rev/pwn specialist, occasional web
-  Languages:       Rust · Go · C/C++ · Sage · Python
-  Education:       AESC MSU  (mathematical training, classified curriculum)
-  Native habitat:  dimly-lit rooms, 3 AM, /tmp/solve.sage open
+  Designation:      h1z3
+  Aliases:          [REDACTED], [REDACTED], "the one who solves crypto"
+  Affiliation:      4x10m  (CTF team, active roster)
+  Role:             crypto/rev/pwn specialist, occasional web
+  Languages:        Rust · Go · C/C++ · Sage · Python
+  Education:        AESC MSU  (mathematical training, classified curriculum)
+  Native habitat:   dimly-lit rooms, 3 AM, /tmp/solve.sage open
   Communication:    terse in Telegram, verbose in writeups
   Reliability:      solves or dies trying (has not died yet)
-- Threat Level:    CRITICAL
-+ Status:          ACTIVE — capturing flags in real time
-! Priority:        MAXIMUM
-! Known weakness:  kittens. any kitten. mission-critical vulnerability.
+- Threat Level:     CRITICAL
++ Status:           ACTIVE — capturing flags in real time
+! Priority:         MAXIMUM
+! Known weakness:   kittens. any kitten. mission-critical vulnerability.
 ```
 
 ## `§2.` OPERATIONAL METRICS
