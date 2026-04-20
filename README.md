@@ -29,13 +29,16 @@
   Designation:     h1z3
   Aliases:         [REDACTED], [REDACTED], "the one who solves crypto"
   Affiliation:     4x10m  (CTF team, active roster)
+  Role:            crypto/rev/pwn specialist, occasional web
+  Languages:       Rust · Go · C/C++ · Sage · Python
   Education:       AESC MSU  (mathematical training, classified curriculum)
   Native habitat:  dimly-lit rooms, 3 AM, /tmp/solve.sage open
+  Communication:    terse in Telegram, verbose in writeups
+  Reliability:      solves or dies trying (has not died yet)
 - Threat Level:    CRITICAL
 + Status:          ACTIVE — capturing flags in real time
 ! Priority:        MAXIMUM
 ! Known weakness:  kittens. any kitten. mission-critical vulnerability.
-! Languages:       Rust · Go · C/C++ · Sage · Python
 ```
 
 ## `§2.` OPERATIONAL METRICS
@@ -289,45 +292,6 @@ Go        ████░░░░░░░░░░░░░░░░░░  20
     Only a wolf is a wolf. "
 
                                     — Jason Statham (attributed)
-```
-
-## `§9.` KNOWN ASSOCIATES
-
-```diff
-  Team:             4x10m
-  Role:             crypto/rev/pwn specialist, occasional web
-  Communication:    terse in Telegram, verbose in writeups
-  Reliability:      solves or dies trying (has not died yet)
-```
-
-## `§10.` THREAT ASSESSMENT MATRIX
-
-| Vector              | Rating       | Notes |
-|---------------------|--------------|-------|
-| Cryptographic       | 🟥 CRITICAL  | Primary attack surface |
-| ML-assisted         | 🟧 HIGH      | Force-multiplier |
-| Binary exploitation | 🟧 HIGH      | Consistently dangerous |
-| Web/Infrastructure  | 🟨 MODERATE  | Supporting capability |
-| Social engineering  | ⬛ UNKNOWN   | Insufficient intel |
-
-## `§11.` RECOMMENDATIONS
-
-```diff
-- ▸ Do NOT underestimate the mathematical background.
--   Standard cryptographic implementations may fall to
--   unconventional algebraic attacks the defender has not
--   considered and — more importantly — has never heard of.
-
-- ▸ The ML-crypto intersection creates novel attack surfaces
--   that traditional defenses do not address and, in most
--   cases, are not aware exist.
-
-- ▸ Engagement only with full team support recommended.
--   Preferably teams including PhD-level cryptographers,
--   at least one kernel developer, and a strong coffee supply.
-
-- ▸ If subject begins speaking in elliptic curve terminology,
--   disengage immediately and reassess.
 ```
 
 ---
