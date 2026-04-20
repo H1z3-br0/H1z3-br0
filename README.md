@@ -52,22 +52,10 @@
 
 </div>
 
-## `§3.` TIME ALLOCATION ANALYSIS
-
-<!--START_SECTION:waka-->
-```text
-Rust      ████████████░░░░░░░░░░  60.2%   
-Go        ████████░░░░░░░░░░░░░░  40.1%   
-Sage      ███████░░░░░░░░░░░░░░░  35.7%   
-C++       ██████░░░░░░░░░░░░░░░░  30.4%   
-Python    ████░░░░░░░░░░░░░░░░░░  20.1%   
-```
-<!--END_SECTION:waka-->
-
-## `§4.` CAPABILITY ASSESSMENT
+## `§3.` CAPABILITY ASSESSMENT
 
 <details open>
-<summary><b>§4.1 — MATHEMATICS & CRYPTOGRAPHY</b> &nbsp;<code>[CRITICAL]</code></summary>
+<summary><b>§3.1 — MATHEMATICS & CRYPTOGRAPHY</b> &nbsp;<code>[CRITICAL]</code></summary>
 
 <br>
 
@@ -103,7 +91,7 @@ Python    ████░░░░░░░░░░░░░░░░░░  20
 </details>
 
 <details>
-<summary><b>§4.2 — MACHINE LEARNING</b> &nbsp;<code>[HIGH]</code></summary>
+<summary><b>§3.2 — MACHINE LEARNING</b> &nbsp;<code>[HIGH]</code></summary>
 
 <br>
 
@@ -136,7 +124,7 @@ lunch, and recover an AES key by dessert.
 </details>
 
 <details>
-<summary><b>§4.3 — WEB DEVELOPMENT & DEVOPS</b> &nbsp;<code>[HIGH]</code></summary>
+<summary><b>§3.3 — WEB DEVELOPMENT & DEVOPS</b> &nbsp;<code>[HIGH]</code></summary>
 
 <br>
 
@@ -168,7 +156,7 @@ lunch, and recover an AES key by dessert.
 </details>
 
 <details>
-<summary><b>§4.4 — REVERSE ENGINEERING & EXPLOITATION</b> &nbsp;<code>[HIGH]</code></summary>
+<summary><b>§3.4 — REVERSE ENGINEERING & EXPLOITATION</b> &nbsp;<code>[HIGH]</code></summary>
 
 <br>
 
@@ -201,7 +189,7 @@ lunch, and recover an AES key by dessert.
 </details>
 
 <details>
-<summary><b>§4.5 — WEB SECURITY</b> &nbsp;<code>[MODERATE]</code></summary>
+<summary><b>§3.5 — WEB SECURITY</b> &nbsp;<code>[MODERATE]</code></summary>
 
 <br>
 
@@ -238,6 +226,15 @@ lunch, and recover an AES key by dessert.
 | `rev/pwn`   | IDA Pro · Ghidra · GDB (pwndbg/GEF)    | `pwndbg` loyalist |
 | `security`  | Burp Suite · Nuclei · Suricata         | + custom tooling (classified) |
 | `fuzzing`   | AFL++ · libFuzzer · honggfuzz          | Deployed per target architecture |
+
+Languages:
+```text
+Rust      ████████████░░░░░░░░░░  60.2%   
+Go        ████████░░░░░░░░░░░░░░  40.1%   
+Sage      ███████░░░░░░░░░░░░░░░  35.7%   
+C++       ██████░░░░░░░░░░░░░░░░  30.4%   
+Python    ████░░░░░░░░░░░░░░░░░░  20.1%   
+```
 
 ## `§6.` CLASSIFIED CHALLENGE
 
