@@ -13,8 +13,6 @@
 ![Status](https://img.shields.io/badge/STATUS-ACTIVE-brightgreen?style=for-the-badge&logo=target&logoColor=white)
 ![CTFtime](https://img.shields.io/badge/CTFtime-4x10m-red?style=for-the-badge&logo=hackthebox&logoColor=white)
 ![Threat](https://img.shields.io/badge/THREAT_LEVEL-CRITICAL-red?style=for-the-badge&logo=shield&logoColor=white)
-![Specialization](https://img.shields.io/badge/CRYPTO-EXPERT-purple?style=for-the-badge&logo=lock&logoColor=white)
-![PWN](https://img.shields.io/badge/PWN-PROFICIENT-orange?style=for-the-badge&logo=bug&logoColor=white)
  
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=h1z3.h1z3&format=true&color=00ff41&logo=github)
  
@@ -36,7 +34,8 @@
 - Threat Level:    CRITICAL
 + Status:          ACTIVE — capturing flags in real time
 ! Priority:        MAXIMUM
-! Known weakness:  responds to free pizza and unsolved challenges
+! Known weakness:  kittens. any kitten. mission-critical vulnerability.
+! Languages:       Rust · Go · C/C++ · Sage · Python
 ```
 
 ## `§2.` OPERATIONAL METRICS
@@ -65,21 +64,10 @@ Python    ████░░░░░░░░░░░░░░░░░░  20
 ```
 <!--END_SECTION:waka-->
 
-## `§4.` INFRASTRUCTURE PROFILE
-
-| | |
-|---|---|
-| **Operating System**  | macOS *(primary)* · Kali Linux *(offensive operations)* |
-| **Shell**             | `zsh` — heavily customized, aliases weaponized |
-| **Editor**            | `neovim` — modal, minimal, mildly terrifying to outsiders |
-| **Languages**         | `Rust` · `Go` · `C/C++` · `Sage` · `Python` *(when forced)* |
-| **Terminal multiplex**| `tmux` — 47 sessions open, cannot be convinced to close any |
-| **Coffee intake**     | Non-trivial. Load-bearing. |
-
-## `§5.` CAPABILITY ASSESSMENT
+## `§4.` CAPABILITY ASSESSMENT
 
 <details open>
-<summary><b>§5.1 — MATHEMATICS & CRYPTOGRAPHY</b> &nbsp;<code>[CRITICAL]</code></summary>
+<summary><b>§4.1 — MATHEMATICS & CRYPTOGRAPHY</b> &nbsp;<code>[CRITICAL]</code></summary>
 
 <br>
 
@@ -115,7 +103,7 @@ Python    ████░░░░░░░░░░░░░░░░░░  20
 </details>
 
 <details>
-<summary><b>§5.2 — MACHINE LEARNING</b> &nbsp;<code>[HIGH]</code></summary>
+<summary><b>§4.2 — MACHINE LEARNING</b> &nbsp;<code>[HIGH]</code></summary>
 
 <br>
 
@@ -148,7 +136,7 @@ lunch, and recover an AES key by dessert.
 </details>
 
 <details>
-<summary><b>§5.3 — WEB DEVELOPMENT & DEVOPS</b> &nbsp;<code>[HIGH]</code></summary>
+<summary><b>§4.3 — WEB DEVELOPMENT & DEVOPS</b> &nbsp;<code>[HIGH]</code></summary>
 
 <br>
 
@@ -180,7 +168,7 @@ lunch, and recover an AES key by dessert.
 </details>
 
 <details>
-<summary><b>§5.4 — REVERSE ENGINEERING & EXPLOITATION</b> &nbsp;<code>[HIGH]</code></summary>
+<summary><b>§4.4 — REVERSE ENGINEERING & EXPLOITATION</b> &nbsp;<code>[HIGH]</code></summary>
 
 <br>
 
@@ -213,7 +201,7 @@ lunch, and recover an AES key by dessert.
 </details>
 
 <details>
-<summary><b>§5.5 — WEB SECURITY</b> &nbsp;<code>[MODERATE]</code></summary>
+<summary><b>§4.5 — WEB SECURITY</b> &nbsp;<code>[MODERATE]</code></summary>
 
 <br>
 
@@ -239,7 +227,7 @@ lunch, and recover an AES key by dessert.
 
 </details>
 
-## `§6.` CONFIRMED TOOLCHAIN
+## `§5.` CONFIRMED TOOLCHAIN
 
 | Domain      | Primary Arsenal                        | Notes |
 |-------------|----------------------------------------|-------|
@@ -251,7 +239,7 @@ lunch, and recover an AES key by dessert.
 | `security`  | Burp Suite · Nuclei · Suricata         | + custom tooling (classified) |
 | `fuzzing`   | AFL++ · libFuzzer · honggfuzz          | Deployed per target architecture |
 
-## `§7.` CLASSIFIED CHALLENGE
+## `§6.` CLASSIFIED CHALLENGE
 
 ```diff
 @@ MINI-CTF EMBEDDED IN DOSSIER @@
@@ -268,7 +256,7 @@ lunch, and recover an AES key by dessert.
 > 
 > **Current solvers:** `[CLASSIFIED]` — join the list!
 
-## `§8.` OPERATIONAL STATS
+## `§7.` OPERATIONAL STATS
 
 ```diff
 @@ CTF engagement metrics (partial — full data classified) @@
@@ -282,7 +270,7 @@ lunch, and recover an AES key by dessert.
 - Worst category DNF:   one (1) OSINT. we do not speak of it.
 ```
 
-## `§9.` BEHAVIORAL PROFILE
+## `§8.` BEHAVIORAL PROFILE
 
 > **Motto:** *"Low level is the way"*
 
@@ -306,16 +294,16 @@ lunch, and recover an AES key by dessert.
                                     — Jason Statham (attributed)
 ```
 
-## `§10.` KNOWN ASSOCIATES
+## `§9.` KNOWN ASSOCIATES
 
 ```diff
   Team:             4x10m
-  Role:             crypto/pwn specialist, occasional web
-  Communication:    terse in Discord, verbose in writeups
+  Role:             crypto/rev/pwn specialist, occasional web
+  Communication:    terse in Telegram, verbose in writeups
   Reliability:      solves or dies trying (has not died yet)
 ```
 
-## `§11.` THREAT ASSESSMENT MATRIX
+## `§10.` THREAT ASSESSMENT MATRIX
 
 | Vector              | Rating       | Notes |
 |---------------------|--------------|-------|
@@ -325,7 +313,7 @@ lunch, and recover an AES key by dessert.
 | Web/Infrastructure  | 🟨 MODERATE  | Supporting capability |
 | Social engineering  | ⬛ UNKNOWN   | Insufficient intel |
 
-## `§12.` RECOMMENDATIONS
+## `§11.` RECOMMENDATIONS
 
 ```diff
 - ▸ Do NOT underestimate the mathematical background.
@@ -343,17 +331,6 @@ lunch, and recover an AES key by dessert.
 
 - ▸ If subject begins speaking in elliptic curve terminology,
 -   disengage immediately and reassess.
-```
-
-## `§13.` CONTACT PROTOCOLS
-
-```diff
-@@ Authorized channels for engagement: @@
-
-+ ▸ CTF platforms — active on [REDACTED], [REDACTED], and CTFtime
-+ ▸ Open-source contributions — visible on this profile
-+ ▸ Writeups — published after events conclude (no spoilers)
-- ▸ Direct contact: discouraged unless you bring a solve or a bug
 ```
 
 ---
