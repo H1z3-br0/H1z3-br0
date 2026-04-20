@@ -1,31 +1,29 @@
 <div align="center">
-
+  
 ![header](https://capsule-render.vercel.app/api?type=venom&color=0%3A450a0a%2C100%3Ab91c1c&height=200&section=header&text=h1z3&fontSize=46&fontColor=fee2e2&fontAlignY=38&desc=@%204x10m+team&descSize=16&descColor=f87171&descAlignY=58&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1500&pause=500&color=FF0040&background=0D111700&center=true&vCenter=true&width=600&lines=Cryptographer;ML+Specialist;Reverse+Engineer;Userspace+Pwner;Web+Developer;DevOps+×+AppSec;Math+Enthusiast;Low+level+is+the+way)](https://git.io/typing-svg)
-
-<div align="center">
-  
+ 
 ```diff
 @@ ███ CLASSIFIED — THREAT INTELLIGENCE REPORT ███ @@
 ! Report ID: TIR-2024-H1Z3    Classification: TOP SECRET
 ! Last updated: [REDACTED]    Pages: 7 of ???
 ```
-</div>
-
+ 
 ![Status](https://img.shields.io/badge/STATUS-ACTIVE-brightgreen?style=for-the-badge&logo=target&logoColor=white)
 ![CTFtime](https://img.shields.io/badge/CTFtime-4x10m-red?style=for-the-badge&logo=hackthebox&logoColor=white)
 ![Threat](https://img.shields.io/badge/THREAT_LEVEL-CRITICAL-red?style=for-the-badge&logo=shield&logoColor=white)
 ![Specialization](https://img.shields.io/badge/CRYPTO-EXPERT-purple?style=for-the-badge&logo=lock&logoColor=white)
 ![PWN](https://img.shields.io/badge/PWN-PROFICIENT-orange?style=for-the-badge&logo=bug&logoColor=white)
-
+ 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=h1z3.h1z3&format=true&color=00ff41&logo=github)
-
+ 
 > ⚠️ **WARNING:** This dossier was compiled by intelligence operatives
 > after observing the subject at multiple international CTF events.
 > Information is fragmentary. Proceed with caution.
-
+ 
 </div>
+
 
 ## `§1.` EXECUTIVE SUMMARY
 
