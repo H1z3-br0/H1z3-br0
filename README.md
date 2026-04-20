@@ -4,11 +4,14 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1500&pause=500&color=FF0040&background=0D111700&center=true&vCenter=true&width=600&lines=Cryptographer;ML+Specialist;Reverse+Engineer;Userspace+Pwner;Web+Developer;DevOps+×+AppSec;Math+Enthusiast;Low+level+is+the+way)](https://git.io/typing-svg)
 
+<div align="center">
+  
 ```diff
 @@ ███ CLASSIFIED — THREAT INTELLIGENCE REPORT ███ @@
 ! Report ID: TIR-2024-H1Z3    Classification: TOP SECRET
 ! Last updated: [REDACTED]    Pages: 7 of ???
 ```
+</div>
 
 ![Status](https://img.shields.io/badge/STATUS-ACTIVE-brightgreen?style=for-the-badge&logo=target&logoColor=white)
 ![CTFtime](https://img.shields.io/badge/CTFtime-4x10m-red?style=for-the-badge&logo=hackthebox&logoColor=white)
