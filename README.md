@@ -256,21 +256,7 @@ Go        ████░░░░░░░░░░░░░░░░░░  20
 > 
 > **Current solvers:** `[CLASSIFIED]` — join the list!
 
-## `§7.` OPERATIONAL STATS
-
-```diff
-@@ CTF engagement metrics (partial — full data classified) @@
-
-  Challenges favored:   crypto > pwn > rev > web > misc
-  Challenges avoided:   none — but forensics receives heavy sighing
-  Typical solve time:   varies inversely with problem elegance
-  Favored solve hour:   03:47 local time
-  Rubber duck count:    4 (all named, all specialized)
-+ Most cursed solve:    a challenge so bad it cannot be discussed
-- Worst category DNF:   one (1) OSINT. we do not speak of it.
-```
-
-## `§8.` BEHAVIORAL PROFILE
+## `§7.` BEHAVIORAL PROFILE
 
 > **Motto:** *"Low level is the way"*
 
