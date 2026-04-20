@@ -1,6 +1,8 @@
 <div align="center">
 
-![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=600&height=100&lines=ACCESSING+CLASSIFIED+FILES...;%E2%96%88%E2%96%88%E2%96%88+THREAT+INTELLIGENCE+REPORT+%E2%96%88%E2%96%88%E2%96%88;Low+level+is+the+way)
+![header](https://capsule-render.vercel.app/api?type=venom&color=0%3A450a0a%2C100%3Ab91c1c&height=200&section=header&text=h1z3&fontSize=46&fontColor=fee2e2&fontAlignY=38&desc=@%204x10m+team&descSize=16&descColor=f87171&descAlignY=58&animation=fadeIn)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1500&pause=500&color=FF0040&background=0D111700&center=true&vCenter=true&width=600&lines=Cryptographer;ML+Specialist;Reverse+Engineer;Userspace+Pwner;Web+Developer;DevOps+×+AppSec;Math+Enthusiast;Low+level+is+the+way)](https://git.io/typing-svg)
 
 ```diff
 @@ ███ CLASSIFIED — THREAT INTELLIGENCE REPORT ███ @@
