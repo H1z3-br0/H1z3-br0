@@ -7,7 +7,7 @@
 ```diff
 @@ ███ CLASSIFIED — THREAT INTELLIGENCE REPORT ███ @@
 ! Report ID: TIR-2024-H1Z3    Classification: TOP SECRET
-! Last updated: [REDACTED]    Pages: 7 of ???
+! Last updated: [REDACTED]    Pages: 6 of ???
 ```
  
 ![Status](https://img.shields.io/badge/STATUS-ACTIVE-brightgreen?style=for-the-badge&logo=target&logoColor=white)
@@ -53,13 +53,10 @@ root@h1z3:~$ cat report.md
   Affiliation:      4x10m  (CTF team, active roster)
   Role:             crypto/rev/pwn specialist, occasional web
   Languages:        Rust · Go · C/C++ · Sage · Python
-  Education:        AESC MSU  (mathematical training, classified curriculum)
-  Native habitat:   dimly-lit rooms, 3 AM, /tmp/solve.sage open
+  Education:        AESC MSU
   Communication:    terse in Telegram, verbose in writeups
-  Reliability:      solves or dies trying (has not died yet)
 - Threat Level:     CRITICAL
 + Status:           ACTIVE — capturing flags in real time
-! Priority:         MAXIMUM
 ! Known weakness:   kittens. any kitten. mission-critical vulnerability.
 ```
 
@@ -246,11 +243,10 @@ lunch, and recover an AES key by dessert.
 |-------------|----------------------------------------|-------|
 | `crypto`    | SageMath · Z3 Solver · Mathematica     | SageMath notebook always open |
 | `ml`        | PyTorch · TensorFlow · scikit-learn    | PyTorch preferred, TF tolerated |
-| `web`       | Go · Node.js · PostgreSQL · Redis      | Backend-first mindset |
+| `web`       | Go · Postman · PostgreSQL · Redis      | Backend-first mindset |
 | `devops`    | Docker · Kubernetes · GitHub Actions   | Will dockerize anything, given time |
 | `rev/pwn`   | IDA Pro · Ghidra · GDB (pwndbg/GEF)    | `pwndbg` loyalist |
-| `security`  | Burp Suite · Nuclei · Suricata         | + custom tooling (classified) |
-| `fuzzing`   | AFL++ · libFuzzer · honggfuzz          | Deployed per target architecture |
+| `WebSec`    | Burp Suite · Nuclei · Suricata         | + custom tooling (classified) |
 
 Languages:
 ```text
@@ -261,24 +257,7 @@ Rust      ██████░░░░░░░░░░░░░░░░  30
 Go        ████░░░░░░░░░░░░░░░░░░  20.1%   
 ```
 
-## `§6.` CLASSIFIED CHALLENGE
-
-```diff
-@@ MINI-CTF EMBEDDED IN DOSSIER @@
-! Decode the following transmission for additional intelligence:
-
-+ aHR0cHM6Ly9naXRodWIuY29tL2gxejMvaDF6Mw==
-
-- Hint: Standard encoding, 64-character alphabet
-- Access level required: Script kiddie or above
-- Reward: [REDACTED] or bragging rights, whichever comes first
-```
-
-> 🚩 *Think you've got it? Open an [issue](../../issues/new?template=flag-submission.md&title=Flag%20Submission) with your answer.*
-> 
-> **Current solvers:** `[CLASSIFIED]` — join the list!
-
-## `§7.` BEHAVIORAL PROFILE
+## `§6.` BEHAVIORAL PROFILE
 
 > **Motto:** *"Low level is the way"*
 
