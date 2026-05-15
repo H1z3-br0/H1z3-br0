@@ -41,13 +41,11 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=H1z3-br0&theme=react-dark&hide_border=true&area=true&area_color=58A6FF&color=58A6FF&line=58A6FF&point=FFFFFF)
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=H1z3-br0&theme=dark&count_private=true&bg_color=0d1117&rank_icon=percentile)
-
 <div align="center">
 
 | **INTELLIGENCE** | **ACTIVITY** |
 |:---:|:---:|
-| ![Stats](https://github-readme-stats.vercel.app/api?username=h1z3&theme=matrix&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=ff6b6b) | ![Streak](https://github-readme-streak-stats.herokuapp.com?user=h1z3&theme=dark&background=0D1117&border=00ff41&stroke=00ff41&ring=ff6b6b&fire=ff6b6b&currStreakNum=00ff41&sideNums=c9d1d9&currStreakLabel=00ff41&sideLabels=c9d1d9&dates=8b949e) |
+| ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=H1z3-br0&theme=dark&count_private=true&bg_color=0d1117&rank_icon=github) | ![Streak](https://github-readme-streak-stats.herokuapp.com?user=h1z3&theme=dark&background=0D1117&border=00ff41&stroke=00ff41&ring=ff6b6b&fire=ff6b6b&currStreakNum=00ff41&sideNums=c9d1d9&currStreakLabel=00ff41&sideLabels=c9d1d9&dates=8b949e) |
 
 | **LANGUAGES** | **ACHIEVEMENTS** |
 |:---:|:---:|
