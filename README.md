@@ -49,7 +49,7 @@
 
 | **LANGUAGES** | **ACHIEVEMENTS** |
 |:---:|:---:|
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h1z3&theme=matrix&hide_border=true&layout=compact&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9) | ![Trophy](https://github-profile-trophy.vercel.app/?username=h1z3&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=4) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=H1z3-br0&layout=compact&theme=dark&hide_border=true&langs_count=8) | ![Trophy](https://github-profile-trophy.vercel.app/?username=h1z3&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=4) |
 
 </div>
 
