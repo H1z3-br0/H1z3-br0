@@ -39,7 +39,7 @@
 
 ## `§2.` OPERATIONAL METRICS
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=h1z3-br0)](https://github.com/h1z3-br0/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=H1z3-br0&show_icons=true&theme=dark&hide_border=true&locale=ru)
 
 <div align="center">
 
