@@ -39,7 +39,7 @@
 
 ## `§2.` OPERATIONAL METRICS
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=H1z3-br0&theme=dark&hide_border=false)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=H1z3-br0&theme=dark)
 
 <div align="center">
 
