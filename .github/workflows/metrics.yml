@@ -23,9 +23,6 @@ jobs:
           config_animations: yes         # Анимации
           
           # === ПЛАГИНЫ ===
-          # 🧱 Ядро + базовая статистика
-          base: "header, activity, community, repositories, metadata"
-          
           # 🈷️ Языки программирования
           plugin_languages: yes
           plugin_languages_ignored: html,css,scss,md  # Скрыть "шум"
@@ -41,10 +38,6 @@ jobs:
           # 📓 Избранные репозитории
           plugin_repositories: yes
           plugin_repositories_featured: yes
-          
-          # ✨ Статистика звёзд
-          plugin_stars: yes
-          plugin_stars_limit: 10
           
           # 🎩 Заметный вклад в организации
           plugin_notable: yes
