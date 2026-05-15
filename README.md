@@ -39,7 +39,7 @@
 
 ## `§2.` OPERATIONAL METRICS
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=H1z3-br0&show_icons=true&theme=dark&hide_border=true&locale=ru)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=H1z3-br0&show_icons=true&theme=dark&hide_border=true)
 
 <div align="center">
 
