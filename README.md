@@ -39,6 +39,8 @@
 
 ## `§2.` OPERATIONAL METRICS
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=H1z3-br0&layout=compact&theme=github_dark&hide_border=true&langs_count=10" width="49%" alt="Top Languages" />
+
 <div align="center">
 
 | **INTELLIGENCE** | **ACTIVITY** |
