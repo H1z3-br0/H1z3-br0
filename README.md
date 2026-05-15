@@ -47,6 +47,10 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=H1z3-br0&theme=react-dark&hide_border=true&area=true&area_color=58A6FF&color=58A6FF&line=58A6FF&point=FFFFFF)
 
+| **LANGUAGES** | **ACHIEVEMENTS** |
+|:---:|:---:|
+| <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=H1z3-br0&theme=github_dark" width="49%" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=H1z3-br0&theme=github_dark" width="49%" /> | ![Trophy](https://github-profile-trophy.vercel.app/?username=h1z3&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=4) |
+
 </div>
 
 ## `§3.` CAPABILITY ASSESSMENT
