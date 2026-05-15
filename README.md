@@ -11,7 +11,7 @@
 ```
  
 ![Status](https://img.shields.io/badge/STATUS-ACTIVE-brightgreen?style=for-the-badge&logo=target&logoColor=white)
-![CTFtime](https://img.shields.io/badge/CTFtime-4x10m-red?style=for-the-badge&logo=hackthebox&logoColor=white)
+[![CTFtime](https://img.shields.io/badge/CTFtime-4x10m-red?style=for-the-badge&logo=hackthebox&logoColor=white)](https://ctftime.org/team/418607)
 ![Threat](https://img.shields.io/badge/THREAT_LEVEL-CRITICAL-red?style=for-the-badge&logo=shield&logoColor=white)
  
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=h1z3.h1z3&format=true&color=00ff41&logo=github)
