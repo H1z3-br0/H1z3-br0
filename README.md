@@ -39,6 +39,8 @@
 
 ## `§2.` OPERATIONAL METRICS
 
+[![Stars](https://ossinsight.io/api/badge/H1z3-br0/H1z3-br0/stargazers?color=00A6ED&style=flat-square)](https://ossinsight.io/analyze/H1z3-br0/H1z3-br0)
+
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=H1z3-br0&theme=dark&count_private=true&bg_color=0d1117&rank_icon=percentile)
 
 <div align="center">
