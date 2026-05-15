@@ -1,0 +1,86 @@
+name: Metrics
+on:
+  schedule: [{ cron: "0 0 * * *" }]  # Обновление раз в сутки в 00:00
+  workflow_dispatch:                  # Ручной запуск по кнопке
+  push: { branches: ["master", "main"] }  # Обновление при пуше
+
+jobs:
+  github-metrics:
+    runs-on:ubuntu-latest
+    permissions:
+      contents: write  # Разрешение на коммит результатов
+    steps:
+      - uses: lowlighter/metrics@latest  # Используй @master для новых фич
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: H1z3-br0
+          
+          # === БАЗОВЫЕ НАСТРОЙКИ ===
+          config_timezone: Europe/Moscow
+          config_theme: github_dark      # Темы: dark, radical, tokyonight, gruvbox
+          config_display: columns        # columns / grid / flex
+          config_octicon: yes            # Иконки
+          config_animations: yes         # Анимации
+          
+          # === ПЛАГИНЫ ===
+          # 🧱 Ядро + базовая статистика
+          base: "header, activity, community, repositories, metadata"
+          
+          # 🏆 Достижения
+          plugin_achievements: yes
+          plugin_achievements_threshold: C  # Bronze/Silver/Gold/A/S/X
+          
+          # 📅 Изометрический календарь коммитов
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year  # full-year / half-year
+          
+          # 🈷️ Языки программирования
+          plugin_languages: yes
+          plugin_languages_ignored: html,css,scss,md  # Скрыть "шум"
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_colors: github
+          
+          # 💡 Привычки кодинга
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          plugin_habits_from: 100         # Дней анализа
+          
+          # 🎟️ Трекинг задач (issues/PR)
+          plugin_followup: yes
+          plugin_followup_sections: repositories
+          
+          # 📓 Избранные репозитории
+          plugin_repositories: yes
+          plugin_repositories_featured: yes
+          
+          # 🧑‍🤝‍🧑 Люди (подписчики/подписки)
+          plugin_people: yes
+          plugin_people_limit: 24
+          plugin_people_types: followers, following
+          
+          # 🎭 Реакции на комментарии
+          plugin_reactions: yes
+          plugin_reactions_limit: 50
+          
+          # ✨ Статистика звёзд
+          plugin_stars: yes
+          plugin_stars_limit: 10
+          
+          # 🎩 Заметный вклад в организации
+          plugin_notable: yes
+          plugin_notable_from: organization
+          
+          # 🎫 Gists
+          plugin_gists: yes
+          
+          # 💬 Обсуждения
+          plugin_discussions: yes
+          
+          # 🧮 Трафик репозиториев (требует токен с repo scope)
+          # plugin_traffic: yes
+          
+          # === ВЫВОД ===
+          output_action: commit           # commit / pull-request / gist
+          output: README.md               # Файл для обновления
+          filename: github-metrics.svg    # Имя файла с метриками
