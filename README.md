@@ -49,7 +49,7 @@
 
 | **LANGUAGES** | **ACHIEVEMENTS** |
 |:---:|:---:|
-| <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=H1z3-br0&theme=github_dark" width="125%" /> | ![Trophy](https://github-profile-trophy.vercel.app/?username=h1z3&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=4) |
+| <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=H1z3-br0&theme=github_dark" width="150%" /> | ![Trophy](https://github-profile-trophy.vercel.app/?username=h1z3&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=4) |
 
 </div>
 
