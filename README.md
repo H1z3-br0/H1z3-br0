@@ -41,7 +41,7 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=H1z3-br0&theme=react-dark&hide_border=true&area=true&area_color=58A6FF&color=58A6FF&line=58A6FF&point=FFFFFF)
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=H1z3-br0&theme=dark&count_private=true&bg_color=0d1117&rank_icon=percentile)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=H1z3-br0&theme=github_dark&count_private=true&bg_color=0d1117&rank_icon=percentile)
 
 <div align="center">
 
