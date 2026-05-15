@@ -39,7 +39,7 @@
 
 ## `§2.` OPERATIONAL METRICS
 
-[![Contributors](https://ossinsight.io/api/badge/H1z3-br0/H1z3-br0/contributors?color=FF6B6B&style=flat-square)](https://ossinsight.io/analyze/H1z3-br0/H1z3-br0)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=H1z3-br0&theme=github-compact&hide_border=true&area=true&area_color=58A6FF&color=58A6FF&line=58A6FF&point=FFFFFF)
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=H1z3-br0&theme=dark&count_private=true&bg_color=0d1117&rank_icon=percentile)
 
