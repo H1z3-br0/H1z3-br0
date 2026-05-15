@@ -44,24 +44,11 @@ jobs:
           plugin_habits: yes
           plugin_habits_facts: yes
           plugin_habits_charts: yes
-          plugin_habits_from: 100         # Дней анализа
-          
-          # 🎟️ Трекинг задач (issues/PR)
-          plugin_followup: yes
-          plugin_followup_sections: repositories
+          plugin_habits_from: 365         # Дней анализа
           
           # 📓 Избранные репозитории
           plugin_repositories: yes
           plugin_repositories_featured: yes
-          
-          # 🧑‍🤝‍🧑 Люди (подписчики/подписки)
-          plugin_people: yes
-          plugin_people_limit: 24
-          plugin_people_types: followers, following
-          
-          # 🎭 Реакции на комментарии
-          plugin_reactions: yes
-          plugin_reactions_limit: 50
           
           # ✨ Статистика звёзд
           plugin_stars: yes
@@ -70,12 +57,6 @@ jobs:
           # 🎩 Заметный вклад в организации
           plugin_notable: yes
           plugin_notable_from: organization
-          
-          # 🎫 Gists
-          plugin_gists: yes
-          
-          # 💬 Обсуждения
-          plugin_discussions: yes
           
           # 🧮 Трафик репозиториев (требует токен с repo scope)
           # plugin_traffic: yes
