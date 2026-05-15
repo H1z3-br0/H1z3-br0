@@ -39,6 +39,11 @@
 
 ## `§2.` OPERATIONAL METRICS
 
+<!-- GitHub Metrics -->
+<p align="center">
+  <img src="/github-metrics.svg" alt="Metrics" width="100%">
+</p>
+
 <div align="center">
 
 | **INTELLIGENCE** | **ACTIVITY** |
