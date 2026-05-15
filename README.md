@@ -39,8 +39,6 @@
 
 ## `§2.` OPERATIONAL METRICS
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=H1z3-br0&layout=compact&theme=github_dark&hide_border=true&langs_count=10" width="49%" alt="Top Languages" />
-
 <div align="center">
 
 | **INTELLIGENCE** | **ACTIVITY** |
@@ -48,10 +46,6 @@
 | ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=H1z3-br0&theme=dark&count_private=true&bg_color=0d1117&rank_icon=github) | ![Streak](https://github-readme-streak-stats.herokuapp.com?user=h1z3&theme=dark&background=0D1117&border=00ff41&stroke=00ff41&ring=ff6b6b&fire=ff6b6b&currStreakNum=00ff41&sideNums=c9d1d9&currStreakLabel=00ff41&sideLabels=c9d1d9&dates=8b949e) |
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=H1z3-br0&theme=react-dark&hide_border=true&area=true&area_color=58A6FF&color=58A6FF&line=58A6FF&point=FFFFFF)
-
-| **LANGUAGES** | **ACHIEVEMENTS** |
-|:---:|:---:|
-| <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=H1z3-br0&theme=github_dark" width="49%" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=H1z3-br0&theme=github_dark" width="49%" /> | ![Trophy](https://github-profile-trophy.vercel.app/?username=h1z3&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=4) |
 
 </div>
 
