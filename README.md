@@ -214,6 +214,56 @@ lunch, and recover an AES key by dessert.
 
 ## `§5.` CONFIRMED TOOLCHAIN
 
+**🔐 Cryptography**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sagemath/sagemath-original.svg" width="40" height="40" title="SageMath"/> 
+<img src="https://cdn.simpleicons.org/microsoft/000000" width="40" height="40" title="Z3 Solver"/> 
+<img src="https://cdn.simpleicons.org/wolfram/DD1100" width="40" height="40" title="Mathematica"/>  
+<sub><i>SageMath notebook always open</i></sub>
+
+**🧠 Machine Learning**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" title="PyTorch"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" title="TensorFlow"/> 
+<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="40" height="40" title="scikit-learn"/>  
+<sub><i>PyTorch preferred, TF tolerated</i></sub>
+
+**⚙️ Backend & Web**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40" title="Go"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40" title="Postman"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" title="PostgreSQL"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" title="Redis"/>  
+<sub><i>Backend-first mindset</i></sub>
+
+**🚀 DevOps**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" title="Docker"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" title="Kubernetes"/> 
+<img src="https://cdn.simpleicons.org/githubactions/2088FF" width="40" height="40" title="GitHub Actions"/>  
+<sub><i>Will dockerize anything, given time</i></sub>
+
+**🛡️ Rev / Pwn**  
+<img src="https://cdn.simpleicons.org/hex/000000" width="40" height="40" title="IDA Pro"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ghidra/ghidra-original.svg" width="40" height="40" title="Ghidra"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gdb/gdb-original.svg" width="40" height="40" title="GDB"/>  
+<sub><i>pwndbg loyalist</i></sub>
+
+**🕸️ WebSec**  
+<img src="https://cdn.simpleicons.org/burpsuite/FF6633" width="40" height="40" title="Burp Suite"/> 
+<img src="https://cdn.simpleicons.org/projectdiscovery/000000" width="40" height="40" title="Nuclei"/> 
+<img src="https://cdn.simpleicons.org/wireshark/000000" width="40" height="40" title="Suricata / Network Analysis"/>  
+<sub><i>+ custom tooling (classified)</i></sub>
+
+---
+
+### 🧬 Languages & Proficiency
+
+```text
+Python    ██████████████░░░░░░░░  70.2%   
+C/C++     ██████████░░░░░░░░░░░░  50.1%   
+Sage      █████████░░░░░░░░░░░░░  45.7%   
+Rust      ████████░░░░░░░░░░░░░░  40.4%   
+Go        ██████░░░░░░░░░░░░░░░░  30.1%
+
+## `§5.` CONFIRMED TOOLCHAIN
+
 | Domain      | Primary Arsenal                        | Notes |
 |-------------|----------------------------------------|-------|
 | `crypto`    | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sagemath/sagemath-original.svg" width="40" height="40" alt="SageMath" title="SageMath"/> <img src="https://cdn.simpleicons.org/microsoft/000000" width="40" height="40" alt="Z3" title="Z3 Solver"/> <img src="https://cdn.simpleicons.org/wolfram/DD1100" width="40" height="40" alt="Mathematica" title="Mathematica"/> | SageMath notebook always open |
