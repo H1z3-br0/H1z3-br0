@@ -223,14 +223,6 @@ lunch, and recover an AES key by dessert.
 | `rev/pwn`   | <img src="https://cdn.simpleicons.org/hex/000000" width="40" height="40" alt="IDA Pro" title="IDA Pro"/> <img src="https://cdn.simpleicons.org/c/000000" width="40" height="40" alt="Ghidra" title="Ghidra"/> <img src="https://cdn.simpleicons.org/gnu/A42E2B" width="40" height="40" alt="GDB" title="GDB (pwndbg/GEF)"/> | `pwndbg` loyalist |
 | `WebSec`    | <img src="https://cdn.simpleicons.org/bug/FF6633" width="40" height="40" alt="Burp Suite" title="Burp Suite"/> <img src="https://cdn.simpleicons.org/terminal/000000" width="40" height="40" alt="Nuclei" title="Nuclei"/> <img src="https://cdn.simpleicons.org/wireshark/000000" width="40" height="40" alt="Suricata" title="Suricata"/> | + custom tooling (classified) |
 
-Languages:
-```text
-Python    ██████████████░░░░░░░░  70.2%   
-C/C++     ██████████░░░░░░░░░░░░  50.1%   
-Sage      █████████░░░░░░░░░░░░░  45.7%   
-Rust      ████████░░░░░░░░░░░░░░  40.4%   
-Go        ██████░░░░░░░░░░░░░░░░  30.1%
-
 ## `§5.` CONFIRMED TOOLCHAIN
 
 | Domain      | Primary Arsenal                        | Notes |
@@ -241,14 +233,6 @@ Go        ██████░░░░░░░░░░░░░░░░  30
 | `devops`    | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) | Will dockerize anything, given time |
 | `rev/pwn`   | ![IDA Pro](https://img.shields.io/badge/IDA_Pro-000000?style=for-the-badge&logo=hex&logoColor=white) ![Ghidra](https://img.shields.io/badge/Ghidra-000000?style=for-the-badge&logo=java&logoColor=white) ![GDB](https://img.shields.io/badge/GDB-A42E2B?style=for-the-badge&logo=gnu&logoColor=white) | `pwndbg` loyalist |
 | `WebSec`    | ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=firefox&logoColor=white) ![Nuclei](https://img.shields.io/badge/Nuclei-000000?style=for-the-badge&logo=projectnuclei&logoColor=white) ![Suricata](https://img.shields.io/badge/Suricata-000000?style=for-the-badge&logo=wireshark&logoColor=white) | + custom tooling (classified) |
-
-Languages:
-```text
-Python    ██████████████░░░░░░░░  70.2%   
-C/C++     ██████████░░░░░░░░░░░░  50.1%   
-Sage      █████████░░░░░░░░░░░░░  45.7%   
-Rust      ████████░░░░░░░░░░░░░░  40.4%   
-Go        ██████░░░░░░░░░░░░░░░░  30.1%
 
 ## `§5.` CONFIRMED TOOLCHAIN
 
@@ -263,11 +247,11 @@ Go        ██████░░░░░░░░░░░░░░░░  30
 
 Languages:
 ```text
-Python    ████████████░░░░░░░░░░  60.2%   
-C/C++     ████████░░░░░░░░░░░░░░  40.1%   
-Sage      ███████░░░░░░░░░░░░░░░  35.7%   
-Rust      ██████░░░░░░░░░░░░░░░░  30.4%   
-Go        ████░░░░░░░░░░░░░░░░░░  20.1%   
+Python    ██████████████░░░░░░░░  70.2%   
+C/C++     ██████████░░░░░░░░░░░░  50.1%   
+Sage      █████████░░░░░░░░░░░░░  45.7%   
+Rust      ████████░░░░░░░░░░░░░░  40.4%   
+Go        ██████░░░░░░░░░░░░░░░░  30.1%
 ```
 
 ## `§6.` BEHAVIORAL PROFILE
