@@ -216,6 +216,25 @@ lunch, and recover an AES key by dessert.
 
 | Domain      | Primary Arsenal                        | Notes |
 |-------------|----------------------------------------|-------|
+| `crypto`    | ![SageMath](https://img.shields.io/badge/SageMath-000000?style=for-the-badge&logo=gnu&logoColor=white) ![Z3](https://img.shields.io/badge/Z3-000000?style=for-the-badge&logo=microsoft&logoColor=white) ![Mathematica](https://img.shields.io/badge/Mathematica-DD1100?style=for-the-badge&logo=wolfram&logoColor=white) | SageMath notebook always open |
+| `ml`        | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) | PyTorch preferred, TF tolerated |
+| `web`       | ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) | Backend-first mindset |
+| `devops`    | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) | Will dockerize anything, given time |
+| `rev/pwn`   | ![IDA Pro](https://img.shields.io/badge/IDA_Pro-000000?style=for-the-badge&logo=hex&logoColor=white) ![Ghidra](https://img.shields.io/badge/Ghidra-000000?style=for-the-badge&logo=java&logoColor=white) ![GDB](https://img.shields.io/badge/GDB-A42E2B?style=for-the-badge&logo=gnu&logoColor=white) | `pwndbg` loyalist |
+| `WebSec`    | ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=firefox&logoColor=white) ![Nuclei](https://img.shields.io/badge/Nuclei-000000?style=for-the-badge&logo=projectnuclei&logoColor=white) ![Suricata](https://img.shields.io/badge/Suricata-000000?style=for-the-badge&logo=wireshark&logoColor=white) | + custom tooling (classified) |
+
+Languages:
+```text
+Python    ██████████████░░░░░░░░  70.2%   
+C/C++     ██████████░░░░░░░░░░░░  50.1%   
+Sage      █████████░░░░░░░░░░░░░  45.7%   
+Rust      ████████░░░░░░░░░░░░░░  40.4%   
+Go        ██████░░░░░░░░░░░░░░░░  30.1%
+
+## `§5.` CONFIRMED TOOLCHAIN
+
+| Domain      | Primary Arsenal                        | Notes |
+|-------------|----------------------------------------|-------|
 | `crypto`    | SageMath · Z3 Solver · Mathematica     | SageMath notebook always open |
 | `ml`        | PyTorch · TensorFlow · scikit-learn    | PyTorch preferred, TF tolerated |
 | `web`       | Go · Postman · PostgreSQL · Redis      | Backend-first mindset |
