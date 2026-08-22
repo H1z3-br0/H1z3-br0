@@ -22,7 +22,7 @@
  
 </div>
 
-## `§1.` EXECUTIVE SUMMARY
+## EXECUTIVE SUMMARY
 
 ```diff
   Designation:      h1z3
@@ -37,7 +37,7 @@
 ! Known weakness:   kittens. any kitten. mission-critical vulnerability.
 ```
 
-## `§2.` OPERATIONAL METRICS
+## OPERATIONAL METRICS
 
 <div align="center">
 
@@ -49,21 +49,7 @@
 
 </div>
 
-## `§3.` CAPABILITY ASSESSMENT
-
-<details open>
-<summary><b>§3.1 — MATHEMATICS & CRYPTOGRAPHY</b> &nbsp;<code>[CRITICAL]</code></summary>
-
-<br>
-
-> The subject demonstrates **elite-level proficiency** in pure mathematics
-> applied to cryptography. The AESC MSU background provides a theoretical
-> foundation that enables attacks on cryptographic primitives considered
-> secure under conventional assumptions.
->
-> Where most practitioners see a protocol, the subject sees an algebraic
-> structure. Where most see a cipher, the subject sees a polynomial ring
-> quietly asking to be factored.
+## MATHEMATICS & CRYPTOGRAPHY
 
 **Specializations:**
 
