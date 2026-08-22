@@ -68,77 +68,9 @@
 
 </details>
 
-## `§5.` CONFIRMED TOOLCHAIN
-
-**🔐 Cryptography**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sagemath/sagemath-original.svg" width="40" height="40" title="SageMath"/> 
-<img src="https://cdn.simpleicons.org/microsoft/000000" width="40" height="40" title="Z3 Solver"/> 
-<img src="https://cdn.simpleicons.org/wolfram/DD1100" width="40" height="40" title="Mathematica"/>  
-<sub><i>SageMath notebook always open</i></sub>
-
-**🧠 Machine Learning**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" title="PyTorch"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" title="TensorFlow"/> 
-<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="40" height="40" title="scikit-learn"/>  
-<sub><i>PyTorch preferred, TF tolerated</i></sub>
-
-**Backend**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40" title="Go"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40" title="Postman"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" title="PostgreSQL"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" title="Redis"/>  
-<sub><i>Backend-first mindset</i></sub>
-
-**🚀 DevOps**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" title="Docker"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" title="Kubernetes"/> 
-<img src="https://cdn.simpleicons.org/githubactions/2088FF" width="40" height="40" title="GitHub Actions"/>  
-<sub><i>Will dockerize anything, given time</i></sub>
-
-**🛡️ Rev / Pwn**  
-<img src="https://cdn.simpleicons.org/hex/000000" width="40" height="40" title="IDA Pro"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ghidra/ghidra-original.svg" width="40" height="40" title="Ghidra"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gdb/gdb-original.svg" width="40" height="40" title="GDB"/>  
-<sub><i>pwndbg loyalist</i></sub>
-
-**🕸️ WebSec**  
-<img src="https://cdn.simpleicons.org/burpsuite/FF6633" width="40" height="40" title="Burp Suite"/> 
-<img src="https://cdn.simpleicons.org/projectdiscovery/000000" width="40" height="40" title="Nuclei"/> 
-<img src="https://cdn.simpleicons.org/wireshark/000000" width="40" height="40" title="Suricata / Network Analysis"/>  
-<sub><i>+ custom tooling (classified)</i></sub>
-
----
-
-### 🧬 Languages & Proficiency
-
-```text
-Python    ██████████████░░░░░░░░  70.2%   
-C/C++     ██████████░░░░░░░░░░░░  50.1%   
-Sage      █████████░░░░░░░░░░░░░  45.7%   
-Rust      ████████░░░░░░░░░░░░░░  40.4%   
-Go        ██████░░░░░░░░░░░░░░░░  30.1%
+## CONFIRMED TOOLCHAIN
 
 ## `§5.` CONFIRMED TOOLCHAIN
-
-| Domain      | Primary Arsenal                        | Notes |
-|-------------|----------------------------------------|-------|
-| `crypto`    | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sagemath/sagemath-original.svg" width="40" height="40" alt="SageMath" title="SageMath"/> <img src="https://cdn.simpleicons.org/microsoft/000000" width="40" height="40" alt="Z3" title="Z3 Solver"/> <img src="https://cdn.simpleicons.org/wolfram/DD1100" width="40" height="40" alt="Mathematica" title="Mathematica"/> | SageMath notebook always open |
-| `ml`        | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch" title="PyTorch"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow" title="TensorFlow"/> <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="40" height="40" alt="scikit-learn" title="scikit-learn"/> | PyTorch preferred, TF tolerated |
-| `web`       | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40" alt="Go" title="Go"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40" alt="Postman" title="Postman"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" title="PostgreSQL"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" alt="Redis" title="Redis"/> | Backend-first mindset |
-| `devops`    | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" title="Docker"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" alt="Kubernetes" title="Kubernetes"/> <img src="https://cdn.simpleicons.org/githubactions/2088FF" width="40" height="40" alt="GitHub Actions" title="GitHub Actions"/> | Will dockerize anything, given time |
-| `rev/pwn`   | <img src="https://cdn.simpleicons.org/hex/000000" width="40" height="40" alt="IDA Pro" title="IDA Pro"/> <img src="https://cdn.simpleicons.org/c/000000" width="40" height="40" alt="Ghidra" title="Ghidra"/> <img src="https://cdn.simpleicons.org/gnu/A42E2B" width="40" height="40" alt="GDB" title="GDB (pwndbg/GEF)"/> | `pwndbg` loyalist |
-| `WebSec`    | <img src="https://cdn.simpleicons.org/bug/FF6633" width="40" height="40" alt="Burp Suite" title="Burp Suite"/> <img src="https://cdn.simpleicons.org/terminal/000000" width="40" height="40" alt="Nuclei" title="Nuclei"/> <img src="https://cdn.simpleicons.org/wireshark/000000" width="40" height="40" alt="Suricata" title="Suricata"/> | + custom tooling (classified) |
-
-## `§5.` CONFIRMED TOOLCHAIN
-
-| Domain      | Primary Arsenal                        | Notes |
-|-------------|----------------------------------------|-------|
-| `crypto`    | ![SageMath](https://img.shields.io/badge/SageMath-000000?style=for-the-badge&logo=gnu&logoColor=white) ![Z3](https://img.shields.io/badge/Z3-000000?style=for-the-badge&logo=microsoft&logoColor=white) ![Mathematica](https://img.shields.io/badge/Mathematica-DD1100?style=for-the-badge&logo=wolfram&logoColor=white) | SageMath notebook always open |
-| `ml`        | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) | PyTorch preferred, TF tolerated |
-| `web`       | ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) | Backend-first mindset |
-| `devops`    | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) | Will dockerize anything, given time |
-| `rev/pwn`   | ![IDA Pro](https://img.shields.io/badge/IDA_Pro-000000?style=for-the-badge&logo=hex&logoColor=white) ![Ghidra](https://img.shields.io/badge/Ghidra-000000?style=for-the-badge&logo=java&logoColor=white) ![GDB](https://img.shields.io/badge/GDB-A42E2B?style=for-the-badge&logo=gnu&logoColor=white) | `pwndbg` loyalist |
-| `WebSec`    | ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=firefox&logoColor=white) ![Nuclei](https://img.shields.io/badge/Nuclei-000000?style=for-the-badge&logo=projectnuclei&logoColor=white) ![Suricata](https://img.shields.io/badge/Suricata-000000?style=for-the-badge&logo=wireshark&logoColor=white) | + custom tooling (classified) |
 
 ## `§5.` CONFIRMED TOOLCHAIN
 
@@ -160,7 +92,7 @@ Rust      █████████░░░░░░░░░░░░░  40
 Go        ███████░░░░░░░░░░░░░░░  30.1%
 ```
 
-## `§6.` BEHAVIORAL PROFILE
+## BEHAVIORAL PROFILE
 
 > **Motto:** *"Low level is the way"*
 
