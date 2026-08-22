@@ -2,7 +2,7 @@
   
 ![header](https://capsule-render.vercel.app/api?type=venom&color=0%3A450a0a%2C100%3Ab91c1c&height=200&section=header&text=h1z3&fontSize=46&fontColor=fee2e2&fontAlignY=38&desc=@%204x10m+team&descSize=16&descColor=f87171&descAlignY=58&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1500&pause=500&color=FF0040&background=0D111700&center=true&vCenter=true&width=600&lines=Cryptographer;ML+Enthusiast;Reverse+Engineer;Web+Developer;DevOps+×+AppSec;Math+Research)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1500&pause=500&color=FF0040&background=0D111700&center=true&vCenter=true&width=600&lines=Cryptographer;ML+Enthusiast;Reverse+Engineer;Backend+Developer;DevOps+×+AppSec;Math+Research)](https://git.io/typing-svg)
  
 ```diff
 @@ ███ CLASSIFIED — THREAT INTELLIGENCE REPORT ███ @@
@@ -76,138 +76,8 @@
 + ▸ Classical cryptanalysis — because sometimes it really is just Vigenère
 ```
 
-**Observed behavior in the field:**
-- Looks at RSA with `e=3` and smiles a specific smile
-- Has strong opinions about which curve is "elegant" and which is "a war crime"
-- Capable of reducing an unknown problem to SVP in under 4 minutes
-
 ```diff
 ! Assessment: MASTERED — primary threat vector
-```
-
-</details>
-
-<details>
-<summary><b>§3.2 — MACHINE LEARNING</b> &nbsp;<code>[HIGH]</code></summary>
-
-<br>
-
-> Significant competence in both classical and deep learning approaches.
-> The combination of ML and cryptographic expertise is *particularly
-> concerning*, as it enables advanced side-channel attacks and novel
-> cryptanalytic techniques that traditional defenses were not designed
-> to withstand.
->
-> The subject is fluent in the dialect where "training loss" and
-> "distinguishing advantage" are synonyms.
-
-**Areas:**
-
-```diff
-+ ▸ Deep learning — neural architectures, training, optimization
-+ ▸ Classical ML — regression, classification, SVM, ensemble methods
-+ ▸ ML + crypto intersection — adversarial examples, ML-SCA, deep-SCA
-+ ▸ Data pipelines & feature engineering — the unglamorous 90%
-+ ▸ Model robustness & evasion — both sides of the fence
-```
-
-**Notable capability:** can look at a power trace, train a CNN on it over
-lunch, and recover an AES key by dessert.
-
-```diff
-! Assessment: ADVANCED
-```
-
-</details>
-
-<details>
-<summary><b>§3.3 — WEB DEVELOPMENT & DEVOPS</b> &nbsp;<code>[HIGH]</code></summary>
-
-<br>
-
-> Backend-focused full-stack development with strong emphasis on
-> infrastructure and deployment. Systems programming background informs
-> DevOps practices, resulting in services that are performant,
-> well-architected, and — most importantly — observable when things
-> inevitably go sideways.
->
-> Subject believes YAML is a personal adversary. Subject is correct.
-
-**Capabilities:**
-
-```diff
-+ ▸ Backend APIs in Go (native, idiomatic) and Node.js (reluctantly)
-+ ▸ Relational (PostgreSQL) & in-memory (Redis) databases
-+ ▸ Container orchestration — Docker, Kubernetes, Helm
-+ ▸ CI/CD pipelines via GitHub Actions — reproducible and signed
-+ ▸ Infrastructure automation & service mesh configuration
-+ ▸ Observability — metrics, tracing, logging that actually helps
-```
-
-**Signature move:** writes the deploy pipeline before the feature.
-
-```diff
-! Assessment: PROFICIENT
-```
-
-</details>
-
-<details>
-<summary><b>§3.4 — REVERSE ENGINEERING & EXPLOITATION</b> &nbsp;<code>[HIGH]</code></summary>
-
-<br>
-
-> Capable of analyzing stripped binaries at both static and dynamic
-> levels. Develops custom exploits for memory corruption vulnerabilities,
-> builds ROP chains against modern mitigations (NX, ASLR, PIE, CET),
-> and writes position-independent shellcode when shellcode is what
-> the situation calls for.
->
-> Subject refuses to believe a binary is "just a black box." There is
-> always more disassembly. There is always another function.
-
-**Capabilities:**
-
-```diff
-+ ▸ Static disassembly & decompilation — IDA, Ghidra, Binary Ninja
-+ ▸ Dynamic analysis — debugging (gdb/pwndbg), tracing, fuzzing (AFL++, libFuzzer)
-+ ▸ Memory corruption — stack & heap exploitation (tcache, unsorted bin, fastbin)
-+ ▸ ROP/JOP/SROP chain construction & shellcode (x86, x64, ARM, MIPS)
-+ ▸ Emulation — QEMU user & system mode, Unicorn, cross-architecture
-+ ▸ Kernel-space exploration — occasionally, when the challenge warrants it
-```
-
-**Field observation:** reads `checksec` output the way others read weather reports.
-
-```diff
-! Assessment: PROFICIENT
-```
-
-</details>
-
-<details>
-<summary><b>§3.5 — WEB SECURITY</b> &nbsp;<code>[MODERATE]</code></summary>
-
-<br>
-
-> Web application testing with focus on automated vulnerability
-> detection and manual exploitation. Covers the OWASP Top 10 reflexively,
-> but shines when challenges require chaining multiple weaknesses into
-> full-impact exploits — SSRF pivoting into RCE, deserialization gadget
-> chains, prototype pollution cascading into auth bypass.
-
-**Capabilities:**
-
-```diff
-+ ▸ Manual testing — Burp Suite (power user), custom extensions
-+ ▸ Automated scanning — Nuclei templates (often self-written)
-+ ▸ Classic OWASP territory — SQLi, XSS, SSRF, XXE, IDOR, SSTI
-+ ▸ Modern web — prototype pollution, deserialization, request smuggling
-+ ▸ Auth & sessions — JWT confusion, OAuth abuse, SAML wrangling
-```
-
-```diff
-! Assessment: COMPETENT
 ```
 
 </details>
@@ -226,7 +96,7 @@ lunch, and recover an AES key by dessert.
 <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="40" height="40" title="scikit-learn"/>  
 <sub><i>PyTorch preferred, TF tolerated</i></sub>
 
-**⚙️ Backend & Web**  
+**Backend**  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40" title="Go"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40" title="Postman"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" title="PostgreSQL"/> 
