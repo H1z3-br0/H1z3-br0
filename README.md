@@ -70,10 +70,6 @@
 
 ## CONFIRMED TOOLCHAIN
 
-## `§5.` CONFIRMED TOOLCHAIN
-
-## `§5.` CONFIRMED TOOLCHAIN
-
 | Domain      | Primary Arsenal                        | Notes |
 |-------------|----------------------------------------|-------|
 | `crypto`    | SageMath · Z3 Solver · Mathematica     | SageMath notebook always open |
