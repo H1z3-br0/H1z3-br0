@@ -57,8 +57,7 @@
 + ▸ Number theory — primes, modular arithmetic, quadratic residues
 + ▸ Abstract algebra — groups, rings, fields, Galois theory
 + ▸ Elliptic curves & pairing-based crypto — BLS, BN curves, MOV attack
-+ ▸ Lattice cryptanalysis — LLL, BKZ, Coppersmith, small roots
-+ ▸ Algebraic attacks on symmetric primitives — linearization, Gröbner
++ ▸ Lattice cryptanalysis — LLL, BKZ, Coppersmith, small roots, isomorphism problem
 + ▸ Classical cryptanalysis — because sometimes it really is just Vigenère
 ```
 
