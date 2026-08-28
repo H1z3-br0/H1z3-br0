@@ -87,21 +87,9 @@ Rust      █████████░░░░░░░░░░░░░  40
 Go        ███████░░░░░░░░░░░░░░░  30.1%
 ```
 
-## BEHAVIORAL PROFILE
-
-> **Motto:** *"Low level is the way"*
-
-**Observed tendencies:**
-- Prefers terminal to GUI in all cases, including text messaging *(unconfirmed)*
-- Refers to bugs as "features of the memory layout"
-- Has a favorite prime. Will not say which.
-- Measures code quality by how it looks in a hex editor
-
----
+## INTERCEPTED PERSONAL QUOTE
 
 ```diff
-@@ Intercepted personal quote (origin: Jason Statham): @@
-
   " Работа не волк. Никто не волк.
     Только волк — волк. "
 
