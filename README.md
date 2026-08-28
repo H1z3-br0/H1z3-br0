@@ -69,14 +69,14 @@
 
 ## CONFIRMED TOOLCHAIN
 
-| Domain      | Primary Arsenal                        | Notes |
-|-------------|----------------------------------------|-------|
-| `crypto`    | SageMath · Z3 Solver · Mathematica     | SageMath notebook always open |
-| `ml`        | PyTorch · TensorFlow · scikit-learn    | PyTorch preferred, TF tolerated |
-| `web`       | Go · Postman · PostgreSQL · Redis      | Backend-first mindset |
-| `devops`    | Docker · Kubernetes · GitHub Actions   | Will dockerize anything, given time |
-| `rev/pwn`   | IDA Pro · Ghidra · GDB (pwndbg/GEF)    | `pwndbg` loyalist |
-| `WebSec`    | Burp Suite · Nuclei · Suricata         | + custom tooling (classified) |
+| Domain           | Primary Arsenal |
+|-------------------|------------------------------------------|
+| `crypto`          | SageMath · Z3 Solver · Brain (a little)  |
+| `ml`              | PyTorch · TensorFlow · scikit-learn      |
+| `backend`         | Postman · PostgreSQL · Redis · Axum      | 
+| `devops`          | Docker · Kubernetes · Jenkins · Nginx   |
+| `rev/pwn`         | IDA Pro · Ghidra · pwnGDB · Malcat     |
+| `WebSec`    | Burp Suite · Nuclei · Suricata         |
 
 Languages:
 ```text
