@@ -73,18 +73,9 @@
 |-------------------|------------------------------------------|
 | `crypto`          | SageMath · Z3 Solver · Brain (a little)  |
 | `ml`              | PyTorch · TensorFlow · scikit-learn      |
-| `backend`         | Postman · PostgreSQL · Redis · Axum      | 
-| `devops`          | Docker · Kubernetes · Jenkins · Nginx   |
-| `rev/pwn`         | IDA Pro · Ghidra · pwnGDB · Malcat     |
-| `WebSec`    | Burp Suite · Nuclei · Suricata         |
+| `devops`          | Docker · Kubernetes · Jenkins · Nginx    |
+| `WebSec`          | Burp Suite · Nuclei · Suricata           |
 
-Languages:
-```text
-Python    ███████████████░░░░░░░  70.2%   
-C/C++     ███████████░░░░░░░░░░░  50.1%   
-Sage      ██████████░░░░░░░░░░░░  45.7%   
-Rust      █████████░░░░░░░░░░░░░  40.4%   
-Go        ███████░░░░░░░░░░░░░░░  30.1%
 ```
 
 ## INTERCEPTED PERSONAL QUOTE
