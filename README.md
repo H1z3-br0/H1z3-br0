@@ -31,7 +31,6 @@
   Role:             crypto/ml/rev solver
   Languages:        Rust · Go · C/C++ · Sage · Python
   Education:        AESC MSU
-  Communication:    terse in Telegram, verbose in writeups
 - Threat Level:     CRITICAL
 + Status:           ACTIVE — capturing flags in real time
 ! Known weakness:   kittens. any kitten. mission-critical vulnerability.
