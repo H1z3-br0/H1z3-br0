@@ -28,7 +28,7 @@
   Designation:      h1z3
   Aliases:          [REDACTED], [REDACTED], "the one who solves crypto"
   Affiliation:      4x10m  (CTF team, active roster)
-  Role:             crypto/rev/pwn specialist, occasional web
+  Role:             crypto/ml/rev solver
   Languages:        Rust · Go · C/C++ · Sage · Python
   Education:        AESC MSU
   Communication:    terse in Telegram, verbose in writeups
