@@ -73,8 +73,6 @@
 | `crypto`          | SageMath · Z3 Solver · Brain (a little)  |
 | `ml`              | PyTorch · TensorFlow · scikit-learn      |
 | `devops`          | Docker · Kubernetes · Jenkins · Nginx    |
-| `WebSec`          | Burp Suite · Nuclei · Suricata           |
-
 ```
 
 ## INTERCEPTED PERSONAL QUOTE
@@ -86,7 +84,7 @@
   " Work is not a wolf. Nobody is a wolf.
     Only a wolf is a wolf. "
 
-                                    — Jason Statham (attributed)
+                                    — Jason Statham
 ```
 
 ---
